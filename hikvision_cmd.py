@@ -53,6 +53,9 @@ class hikvision():
         resultado = addFaceRecord(self.__url, auth, self.__ifile, self.__json_data)
         print (resultado)
 
+    def DeleteFaceRecord(self):
+        auth = self.generar_auth()
+        DeleteFaceRecord(self.__url, auth, self.__json_data)
 
 if __name__ == '__main__':
     order, host, user, passwd, json_file, file = main()
