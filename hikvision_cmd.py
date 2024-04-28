@@ -56,12 +56,16 @@ class hikvision():
     def DeleteFaceRecord(self):
         auth = self.generar_auth()
         DeleteFaceRecord(self.__url, auth, self.__json_data)
+    
+    def ReadEvents(self):
+        #auth = self.generar_auth()
+        ReadEvents(self.__url, self.__user, self.__password, self.__json_data)
 
 if __name__ == '__main__':
     order, host, user, passwd, json_file, file = main()
-    host = 'http://192.168.68.200'
-    user = 'admin'
-    passwd = 'ano2023-26455604'
+    #host = 'http://192.168.68.200'
+    #user = 'admin'
+    #passwd = 'ano2023-26455604'
     json_data = readJson(json_file)
     hv = hikvision(user, passwd, host, file, json_data)
     opt = str(order).upper
@@ -72,5 +76,7 @@ if __name__ == '__main__':
         hv.CreateUser()
     if order == 'addfacerecord':
         hv.addFaceRecord()
+    if order == 'readevents':
+        hv.ReadEvents()
         
         #comentario

@@ -2,8 +2,9 @@ import requests
 from datetime import datetime
 from datetime import datetime
 import pytz
+from requests.auth import HTTPDigestAuth
 
-def ReadEvents(url, auth, fdesde, fhasta):
+def ReadEvents(url, user, passwd, json_data):
     def convert_to_utc(time_str):
         time = datetime.strptime(time_str, '%Y-%m-%d')
         time_utc = time.astimezone(pytz.utc)
@@ -28,30 +29,34 @@ def ReadEvents(url, auth, fdesde, fhasta):
 
     path = f'{url}/ISAPI/AccessControl/AcsEvent?format=json'
     pos = 0
-    total_registros = None
-    while True:
-        json_entrada = json_entrada_leer(fdesde, fhasta, pos)
-        response = requests.post(path, auth=auth, json=json_entrada)
-        if response.status_code == 200:
-            json_data = response.json()
-            if total_registros == None:
-                total_registros = json_data["AcsEvent"]["totalMatches"]
-            if int(json_data["AcsEvent"]["numOfMatches"]) > 0:
-                try:
-                    for info in json_data["AcsEvent"]["InfoList"]:
-                        fecha, hora = info['time'].split('T')
-                        hora_minutos = hora.split(':')[0:2]
-                        hora_minutos_str = ":".join(hora_minutos)
-                        print(
-                            f"Fecha={fecha}\tHora={hora_minutos_str}\tNombre={info['name']}\tId={info['employeeNoString']}\tTipo={info['currentVerifyMode']}")
-                    pos = pos + 30
-                except:
-                    print(json_data)
+    total_registros = None    
+    fdesde = json_data["AcsEventCond"]["startTime"]
+    fhasta = json_data["AcsEventCond"]["endTime"]    
+    with open(r'salida.txt', 'w', encoding='utf-8') as archivos:    
+        while True:
+            json_entrada = json_entrada_leer(fdesde, fhasta, pos)
+            response = requests.post(path, auth=HTTPDigestAuth(user, passwd), json=json_entrada)
+            if response.status_code == 200:
+                json_data = response.json()
+                if total_registros == None:
+                    total_registros = json_data["AcsEvent"]["totalMatches"]
+                if int(json_data["AcsEvent"]["numOfMatches"]) > 0:
+                    try:
+                        for info in json_data["AcsEvent"]["InfoList"]:
+                            fecha, hora = info['time'].split('T')
+                            hora_minutos = hora.split(':')[0:2]
+                            hora_minutos_str = ":".join(hora_minutos)
+                            linea_proc = f"Fecha={fecha}\tHora={hora_minutos_str}\tNombre={info['name']}\tId={info['employeeNoString']}\tTipo={info['currentVerifyMode']}"
+                            archivos.write (linea_proc + '\n')
+                        pos = pos + 30
+                    except Exception as e:
+                        print(f'Error General!!: {e}')
+                        break
+                else:
                     break
             else:
+                # Si la solicitud no fue exitosa, imprimir el código de estado
+                print(f'Error: {response.status_code}')
                 break
-        else:
-            # Si la solicitud no fue exitosa, imprimir el código de estado
-            print('Error:', response.status_code)
-            break
+    archivos.close()
     print(f'Cantidad de Registros Visualizado: {total_registros}')
