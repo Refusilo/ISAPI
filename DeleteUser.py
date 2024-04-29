@@ -1,12 +1,12 @@
 import requests
-import json
+from requests.auth import HTTPDigestAuth
 
-def DeleteUser(url, auth, ifile):
+
+def DeleteUser(url, user, passwd, json_data):
     path = f'{url}/ISAPI/AccessControl/UserInfo/Delete?format=json'
     
-    with open(ifile, 'r') as archivo:
-        json_data = json.load(archivo)
-    response = requests.put(path, auth=auth, json=json_data)
+    
+    response = requests.put(path, auth=HTTPDigestAuth(user, passwd), json=json_data)
 
     # Verificar si la solicitud fue exitosa (código de estado 200)
     if response.status_code == 200:

@@ -60,6 +60,10 @@ class hikvision():
     def ReadEvents(self):
         #auth = self.generar_auth()
         ReadEvents(self.__url, self.__user, self.__password, self.__json_data)
+    
+    def DeleteUser(self):
+        #auth = self.generar_auth()
+        DeleteUser(self.__url, self.__user, self.__password, self.__json_data)
 
 if __name__ == '__main__':
     order, host, user, passwd, json_file, file = main()
@@ -78,5 +82,7 @@ if __name__ == '__main__':
         hv.addFaceRecord()
     if order == 'readevents':
         hv.ReadEvents()
+    if order == 'deleteuser':
+        hv.DeleteUser()
         
         #comentario
