@@ -1,0 +1,349 @@
+{
+    "UserInfoSearch": {
+        "searchID": "0",
+        "responseStatusStrg": "OK",
+        "numOfMatches": 10,
+        "totalMatches": 70,
+        "UserInfo": [
+            {
+                "employeeNo": "34133994",
+                "name": "Carlos Fernando Saavedra",
+                "userType": "normal",
+                "closeDelayEnabled": false,
+                "Valid": {
+                    "enable": true,
+                    "beginTime": "2023-05-18T00:00:00",
+                    "endTime": "2033-05-17T23:59:59",
+                    "timeType": "local"
+                },
+                "belongGroup": "",
+                "password": "",
+                "doorRight": "1",
+                "RightPlan": [
+                    {
+                        "doorNo": 1,
+                        "planTemplateNo": "1"
+                    }
+                ],
+                "maxOpenDoorTime": 0,
+                "openDoorTime": 0,
+                "localUIRight": false,
+                "gender": "male",
+                "numOfCard": 0,
+                "numOfFP": 0,
+                "numOfFace": 0,
+                "PersonInfoExtends": [
+                    {
+                        "value": ""
+                    }
+                ]
+            },
+            {
+                "employeeNo": "10645769",
+                "name": "Andr\u00e9s Lanuel",
+                "userType": "normal",
+                "closeDelayEnabled": false,
+                "Valid": {
+                    "enable": true,
+                    "beginTime": "2023-05-19T00:00:00",
+                    "endTime": "2033-05-18T23:59:59",
+                    "timeType": "local"
+                },
+                "belongGroup": "",
+                "password": "",
+                "doorRight": "1",
+                "RightPlan": [
+                    {
+                        "doorNo": 1,
+                        "planTemplateNo": "1"
+                    }
+                ],
+                "maxOpenDoorTime": 0,
+                "openDoorTime": 0,
+                "localUIRight": false,
+                "gender": "male",
+                "numOfCard": 0,
+                "numOfFP": 0,
+                "numOfFace": 1,
+                "PersonInfoExtends": [
+                    {
+                        "value": ""
+                    }
+                ],
+                "faceURL": "http://192.168.68.200/LOCALS/pic/enrlFace/0/0000000027.jpg@WEB000000002112"
+            },
+            {
+                "employeeNo": "6",
+                "name": "Christian Kerstens",
+                "userType": "normal",
+                "closeDelayEnabled": false,
+                "Valid": {
+                    "enable": true,
+                    "beginTime": "2023-06-13T00:00:00",
+                    "endTime": "2033-06-12T23:59:59",
+                    "timeType": "local"
+                },
+                "belongGroup": "",
+                "password": "",
+                "doorRight": "1",
+                "RightPlan": [
+                    {
+                        "doorNo": 1,
+                        "planTemplateNo": "1"
+                    }
+                ],
+                "maxOpenDoorTime": 0,
+                "openDoorTime": 0,
+                "localUIRight": false,
+                "gender": "male",
+                "numOfCard": 0,
+                "numOfFP": 0,
+                "numOfFace": 1,
+                "PersonInfoExtends": [
+                    {
+                        "value": ""
+                    }
+                ],
+                "faceURL": "http://192.168.68.200/LOCALS/pic/enrlFace/0/0000000023.jpg@WEB000000002113"
+            },
+            {
+                "employeeNo": "33163250",
+                "name": "Fabio Mirabal",
+                "userType": "normal",
+                "closeDelayEnabled": false,
+                "Valid": {
+                    "enable": true,
+                    "beginTime": "2023-07-18T00:00:00",
+                    "endTime": "2033-07-17T23:59:59",
+                    "timeType": "local"
+                },
+                "belongGroup": "",
+                "password": "",
+                "doorRight": "1",
+                "RightPlan": [
+                    {
+                        "doorNo": 1,
+                        "planTemplateNo": "1"
+                    }
+                ],
+                "maxOpenDoorTime": 0,
+                "openDoorTime": 0,
+                "localUIRight": false,
+                "gender": "male",
+                "numOfCard": 0,
+                "numOfFP": 0,
+                "numOfFace": 1,
+                "PersonInfoExtends": [
+                    {
+                        "value": ""
+                    }
+                ],
+                "faceURL": "http://192.168.68.200/LOCALS/pic/enrlFace/0/0000000024.jpg@WEB000000002114"
+            },
+            {
+                "employeeNo": "43773165",
+                "name": "Sof\u00eda Suarez",
+                "userType": "normal",
+                "closeDelayEnabled": false,
+                "Valid": {
+                    "enable": true,
+                    "beginTime": "2023-08-02T00:00:00",
+                    "endTime": "2033-08-01T23:59:59",
+                    "timeType": "local"
+                },
+                "belongGroup": "",
+                "password": "",
+                "doorRight": "1",
+                "RightPlan": [
+                    {
+                        "doorNo": 1,
+                        "planTemplateNo": "1"
+                    }
+                ],
+                "maxOpenDoorTime": 0,
+                "openDoorTime": 0,
+                "localUIRight": false,
+                "gender": "female",
+                "numOfCard": 0,
+                "numOfFP": 0,
+                "numOfFace": 1,
+                "PersonInfoExtends": [
+                    {
+                        "value": ""
+                    }
+                ],
+                "faceURL": "http://192.168.68.200/LOCALS/pic/enrlFace/0/0000000025.jpg@WEB000000002115"
+            },
+            {
+                "employeeNo": "8564843",
+                "name": "Carlos Ovejero",
+                "userType": "normal",
+                "closeDelayEnabled": false,
+                "Valid": {
+                    "enable": true,
+                    "beginTime": "2023-08-04T00:00:00",
+                    "endTime": "2033-08-03T23:59:59",
+                    "timeType": "local"
+                },
+                "belongGroup": "",
+                "password": "",
+                "doorRight": "1",
+                "RightPlan": [
+                    {
+                        "doorNo": 1,
+                        "planTemplateNo": "1"
+                    }
+                ],
+                "maxOpenDoorTime": 0,
+                "openDoorTime": 0,
+                "localUIRight": false,
+                "gender": "male",
+                "numOfCard": 0,
+                "numOfFP": 0,
+                "numOfFace": 1,
+                "PersonInfoExtends": [
+                    {
+                        "value": ""
+                    }
+                ],
+                "faceURL": "http://192.168.68.200/LOCALS/pic/enrlFace/0/0000000026.jpg@WEB000000002116"
+            },
+            {
+                "employeeNo": "20179331",
+                "name": "Roberto Albornoz",
+                "userType": "normal",
+                "closeDelayEnabled": false,
+                "Valid": {
+                    "enable": true,
+                    "beginTime": "2023-09-15T00:00:00",
+                    "endTime": "2033-09-14T23:59:59",
+                    "timeType": "local"
+                },
+                "belongGroup": "",
+                "password": "",
+                "doorRight": "1",
+                "RightPlan": [
+                    {
+                        "doorNo": 1,
+                        "planTemplateNo": "1"
+                    }
+                ],
+                "maxOpenDoorTime": 0,
+                "openDoorTime": 0,
+                "localUIRight": false,
+                "gender": "male",
+                "numOfCard": 0,
+                "numOfFP": 0,
+                "numOfFace": 1,
+                "PersonInfoExtends": [
+                    {
+                        "value": ""
+                    }
+                ],
+                "faceURL": "http://192.168.68.200/LOCALS/pic/enrlFace/0/0000000028.jpg@WEB000000002117"
+            },
+            {
+                "employeeNo": "31842533",
+                "name": "JOSE MARTIN AMADOR",
+                "userType": "normal",
+                "closeDelayEnabled": false,
+                "Valid": {
+                    "enable": true,
+                    "beginTime": "2023-11-02T00:00:00",
+                    "endTime": "2033-11-01T23:59:59",
+                    "timeType": "local"
+                },
+                "belongGroup": "",
+                "password": "",
+                "doorRight": "1",
+                "RightPlan": [
+                    {
+                        "doorNo": 1,
+                        "planTemplateNo": "1"
+                    }
+                ],
+                "maxOpenDoorTime": 0,
+                "openDoorTime": 0,
+                "localUIRight": false,
+                "gender": "male",
+                "numOfCard": 0,
+                "numOfFP": 0,
+                "numOfFace": 1,
+                "PersonInfoExtends": [
+                    {
+                        "value": ""
+                    }
+                ],
+                "faceURL": "http://192.168.68.200/LOCALS/pic/enrlFace/0/0000000029.jpg@WEB000000002118"
+            },
+            {
+                "employeeNo": "37958599",
+                "name": "Pereyra Gabriel Omar",
+                "userType": "normal",
+                "closeDelayEnabled": false,
+                "Valid": {
+                    "enable": true,
+                    "beginTime": "2023-11-02T00:00:00",
+                    "endTime": "2033-11-01T23:59:59",
+                    "timeType": "local"
+                },
+                "belongGroup": "",
+                "password": "",
+                "doorRight": "1",
+                "RightPlan": [
+                    {
+                        "doorNo": 1,
+                        "planTemplateNo": "1"
+                    }
+                ],
+                "maxOpenDoorTime": 0,
+                "openDoorTime": 0,
+                "localUIRight": false,
+                "gender": "male",
+                "numOfCard": 0,
+                "numOfFP": 0,
+                "numOfFace": 1,
+                "PersonInfoExtends": [
+                    {
+                        "value": ""
+                    }
+                ],
+                "faceURL": "http://192.168.68.200/LOCALS/pic/enrlFace/0/0000000030.jpg@WEB000000002119"
+            },
+            {
+                "employeeNo": "22497",
+                "name": "Camilo Wahab",
+                "userType": "normal",
+                "closeDelayEnabled": false,
+                "Valid": {
+                    "enable": true,
+                    "beginTime": "2024-01-01T00:00:00",
+                    "endTime": "2032-12-12T23:59:59",
+                    "timeType": "local"
+                },
+                "belongGroup": "",
+                "password": "",
+                "doorRight": "1",
+                "RightPlan": [
+                    {
+                        "doorNo": 1,
+                        "planTemplateNo": "1"
+                    }
+                ],
+                "maxOpenDoorTime": 0,
+                "openDoorTime": 0,
+                "floorNumber": 1,
+                "localUIRight": false,
+                "gender": "male",
+                "numOfCard": 0,
+                "numOfFP": 0,
+                "numOfFace": 0,
+                "PersonInfoExtends": [
+                    {
+                        "value": ""
+                    }
+                ]
+            }
+        ]
+    }
+}

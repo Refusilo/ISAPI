@@ -5,7 +5,7 @@ from types import SimpleNamespace
 
 def ListUser(url, auth, json_data):
     path = f'{url}/ISAPI/AccessControl/UserInfo/Search?format=json'
-
+    archivo_salida = open (r'c:\tmp\salida.txt', 'w', encoding='utf-8')
     response = requests.post(path, auth=auth, json=json_data)    
     if response.status_code == 200:
         json_response = response.json()
@@ -16,7 +16,9 @@ def ListUser(url, auth, json_data):
         pos = 0
         while True:
             for info in json_response["UserInfoSearch"]["UserInfo"]:
-                print(f"{info['employeeNo']}\t{info['name']}\t{info['userType']}\t{info['Valid']['beginTime']}\t{info['Valid']['endTime']}")
+                linea_proc = f"{info['employeeNo']}\t{info['name']}\t{info['userType']}\t{info['Valid']['beginTime']}\t{info['Valid']['endTime']}"
+                print(linea_proc)
+                archivo_salida.write( linea_proc + '\n')
             if json_response["UserInfoSearch"]["responseStatusStrg"] == 'OK':
                 break
             pos = pos + 30
@@ -25,3 +27,4 @@ def ListUser(url, auth, json_data):
             json_response = response.json()
     else:
         print('Error:', response.status_code)
+    archivo_salida.close()

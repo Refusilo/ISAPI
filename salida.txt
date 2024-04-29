@@ -1,210 +1,70 @@
-Fecha=2024-03-01	Hora=07:05	Nombre=Lautaro Ahumada	Id=43291390	Tipo=fpOrface
-Fecha=2024-03-01	Hora=10:55	Nombre=Lautaro Ahumada	Id=43291390	Tipo=fpOrface
-Fecha=2024-03-01	Hora=13:48	Nombre=Angel Nicolas Sarmiento Molina	Id=41495350	Tipo=fpOrface
-Fecha=2024-03-01	Hora=14:07	Nombre=JOSE MARTIN AMADOR	Id=31842533	Tipo=fpOrface
-Fecha=2024-03-01	Hora=14:11	Nombre=JOSE MARTIN AMADOR	Id=31842533	Tipo=fpOrface
-Fecha=2024-03-01	Hora=14:24	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-01	Hora=14:24	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-01	Hora=14:49	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-01	Hora=15:08	Nombre=Andrés Lanuel	Id=10645769	Tipo=fpOrface
-Fecha=2024-03-01	Hora=18:11	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-01	Hora=18:22	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-01	Hora=18:36	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-01	Hora=19:26	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-04	Hora=07:05	Nombre=Exequiel Contreras	Id=30268763	Tipo=fpOrface
-Fecha=2024-03-04	Hora=07:57	Nombre=Julio Suarez	Id=21335297	Tipo=fpOrface
-Fecha=2024-03-04	Hora=09:09	Nombre=Sofía Suarez	Id=43773165	Tipo=fpOrface
-Fecha=2024-03-04	Hora=10:16	Nombre=Gabriel Mendoza	Id=3	Tipo=fpOrface
-Fecha=2024-03-04	Hora=11:32	Nombre=Fabio Mirabal	Id=33163250	Tipo=fpOrface
-Fecha=2024-03-04	Hora=12:02	Nombre=Pedro Emanuel Ballesteros	Id=25444119	Tipo=fpOrface
-Fecha=2024-03-04	Hora=14:11	Nombre=Julio Suarez	Id=21335297	Tipo=fpOrface
-Fecha=2024-03-04	Hora=15:01	Nombre=José Santillán	Id=26454030	Tipo=fpOrface
-Fecha=2024-03-04	Hora=15:48	Nombre=Mirande Juan Carlos	Id=12607804	Tipo=fpOrface
-Fecha=2024-03-04	Hora=15:48	Nombre=Mirande Juan Carlos	Id=12607804	Tipo=fpOrface
-Fecha=2024-03-04	Hora=16:14	Nombre=Mirande Juan Carlos	Id=12607804	Tipo=fpOrface
-Fecha=2024-03-05	Hora=07:14	Nombre=Lautaro Ahumada	Id=43291390	Tipo=fpOrface
-Fecha=2024-03-05	Hora=10:42	Nombre=Daniel Alejandro Medina	Id=33615907	Tipo=fpOrface
-Fecha=2024-03-05	Hora=10:43	Nombre=Carlos Ovejero	Id=8564843	Tipo=fpOrface
-Fecha=2024-03-05	Hora=12:35	Nombre=Lautaro Ahumada	Id=43291390	Tipo=fpOrface
-Fecha=2024-03-05	Hora=12:35	Nombre=Lautaro Ahumada	Id=43291390	Tipo=fpOrface
-Fecha=2024-03-05	Hora=14:10	Nombre=Daniel Alejandro Medina	Id=33615907	Tipo=fpOrface
-Fecha=2024-03-05	Hora=15:33	Nombre=Lautaro Ahumada	Id=43291390	Tipo=fpOrface
-Fecha=2024-03-05	Hora=16:38	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-05	Hora=16:49	Nombre=Angel Nicolas Sarmiento Molina	Id=41495350	Tipo=fpOrface
-Fecha=2024-03-05	Hora=16:51	Nombre=Lautaro Ahumada	Id=43291390	Tipo=fpOrface
-Fecha=2024-03-05	Hora=16:51	Nombre=Lautaro Ahumada	Id=43291390	Tipo=fpOrface
-Fecha=2024-03-05	Hora=17:47	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-05	Hora=18:54	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-05	Hora=18:54	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-06	Hora=09:57	Nombre=Lautaro Ahumada	Id=43291390	Tipo=fpOrface
-Fecha=2024-03-06	Hora=10:46	Nombre=Daniel Alejandro Medina	Id=33615907	Tipo=fpOrface
-Fecha=2024-03-06	Hora=11:14	Nombre=Pedro Emanuel Ballesteros	Id=25444119	Tipo=fpOrface
-Fecha=2024-03-06	Hora=11:15	Nombre=Lautaro Ahumada	Id=43291390	Tipo=fpOrface
-Fecha=2024-03-06	Hora=11:51	Nombre=Lautaro Ahumada	Id=43291390	Tipo=fpOrface
-Fecha=2024-03-06	Hora=15:08	Nombre=Pedro Emanuel Ballesteros	Id=25444119	Tipo=fpOrface
-Fecha=2024-03-07	Hora=11:35	Nombre=Pedro Emanuel Ballesteros	Id=25444119	Tipo=fpOrface
-Fecha=2024-03-07	Hora=13:57	Nombre=Daniel Alejandro Medina	Id=33615907	Tipo=fpOrface
-Fecha=2024-03-07	Hora=14:03	Nombre=Gabriel Mendoza	Id=3	Tipo=fpOrface
-Fecha=2024-03-07	Hora=15:01	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-07	Hora=17:28	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-07	Hora=18:09	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-08	Hora=07:13	Nombre=Daniel Alejandro Medina	Id=33615907	Tipo=fpOrface
-Fecha=2024-03-08	Hora=07:15	Nombre=Angel Nicolas Sarmiento Molina	Id=41495350	Tipo=fpOrface
-Fecha=2024-03-08	Hora=07:15	Nombre=Angel Nicolas Sarmiento Molina	Id=41495350	Tipo=fpOrface
-Fecha=2024-03-08	Hora=08:06	Nombre=Pedro Emanuel Ballesteros	Id=25444119	Tipo=fpOrface
-Fecha=2024-03-08	Hora=15:35	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-08	Hora=17:38	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-11	Hora=06:24	Nombre=Mirian Sauco	Id=27639900	Tipo=fpOrface
-Fecha=2024-03-11	Hora=10:56	Nombre=Esteban Alfredo Brito	Id=26957060	Tipo=fpOrface
-Fecha=2024-03-11	Hora=11:21	Nombre=Daniel Alejandro Medina	Id=33615907	Tipo=fpOrface
-Fecha=2024-03-11	Hora=11:34	Nombre=Andrés Lanuel	Id=10645769	Tipo=fpOrface
-Fecha=2024-03-11	Hora=12:31	Nombre=Mirande Juan Carlos	Id=12607804	Tipo=fpOrface
-Fecha=2024-03-11	Hora=12:31	Nombre=Mirande Juan Carlos	Id=12607804	Tipo=fpOrface
-Fecha=2024-03-11	Hora=13:59	Nombre=Daniel Alejandro Medina	Id=33615907	Tipo=fpOrface
-Fecha=2024-03-11	Hora=14:09	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-11	Hora=15:03	Nombre=Juan José Maccio	Id=26883371	Tipo=fpOrface
-Fecha=2024-03-11	Hora=16:36	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-11	Hora=16:36	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-11	Hora=17:38	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-12	Hora=06:25	Nombre=Mirian Sauco	Id=27639900	Tipo=fpOrface
-Fecha=2024-03-12	Hora=07:08	Nombre=Fabio Mirabal	Id=33163250	Tipo=fpOrface
-Fecha=2024-03-12	Hora=08:14	Nombre=Andrés Lanuel	Id=10645769	Tipo=fpOrface
-Fecha=2024-03-12	Hora=09:37	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-12	Hora=09:59	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-12	Hora=10:13	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-12	Hora=10:42	Nombre=Esteban Alfredo Brito	Id=26957060	Tipo=fpOrface
-Fecha=2024-03-12	Hora=11:12	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-12	Hora=12:02	Nombre=Lautaro Ahumada	Id=43291390	Tipo=fpOrface
-Fecha=2024-03-12	Hora=12:50	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-12	Hora=13:11	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-12	Hora=13:58	Nombre=Lautaro Ahumada	Id=43291390	Tipo=fpOrface
-Fecha=2024-03-12	Hora=16:54	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-12	Hora=16:54	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-12	Hora=17:25	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-13	Hora=07:13	Nombre=Emilia Olea Babich	Id=34132301	Tipo=fpOrface
-Fecha=2024-03-13	Hora=11:34	Nombre=Pedro Emanuel Ballesteros	Id=25444119	Tipo=fpOrface
-Fecha=2024-03-13	Hora=14:35	Nombre=Exequiel Contreras	Id=30268763	Tipo=fpOrface
-Fecha=2024-03-13	Hora=17:16	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-14	Hora=07:11	Nombre=Angel Nicolas Sarmiento Molina	Id=41495350	Tipo=fpOrface
-Fecha=2024-03-14	Hora=11:07	Nombre=Andrés Lanuel	Id=10645769	Tipo=fpOrface
-Fecha=2024-03-14	Hora=13:35	Nombre=Daniel Alejandro Medina	Id=33615907	Tipo=fpOrface
-Fecha=2024-03-14	Hora=15:48	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-14	Hora=16:19	Nombre=Francisco Eduardo Correa	Id=12654239	Tipo=fpOrface
-Fecha=2024-03-14	Hora=17:26	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-14	Hora=17:54	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-15	Hora=12:56	Nombre=Pereyra Gabriel Omar	Id=37958599	Tipo=fpOrface
-Fecha=2024-03-15	Hora=16:14	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-15	Hora=16:14	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-15	Hora=18:01	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-15	Hora=18:05	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-18	Hora=06:49	Nombre=Francisco Eduardo Correa	Id=12654239	Tipo=fpOrface
-Fecha=2024-03-18	Hora=07:11	Nombre=Lautaro Ahumada	Id=43291390	Tipo=fpOrface
-Fecha=2024-03-18	Hora=09:11	Nombre=Ibarra Diego Armando	Id=40517296	Tipo=fpOrface
-Fecha=2024-03-18	Hora=11:27	Nombre=Daniel Alejandro Medina	Id=33615907	Tipo=fpOrface
-Fecha=2024-03-18	Hora=12:27	Nombre=Andrés Lanuel	Id=10645769	Tipo=fpOrface
-Fecha=2024-03-18	Hora=13:43	Nombre=Gabriel Mendoza	Id=3	Tipo=fpOrface
-Fecha=2024-03-18	Hora=14:02	Nombre=Angel Nicolas Sarmiento Molina	Id=41495350	Tipo=fpOrface
-Fecha=2024-03-18	Hora=14:17	Nombre=Pedro Emanuel Ballesteros	Id=25444119	Tipo=fpOrface
-Fecha=2024-03-18	Hora=16:19	Nombre=Francisco Eduardo Correa	Id=12654239	Tipo=fpOrface
-Fecha=2024-03-18	Hora=16:24	Nombre=Lautaro Ahumada	Id=43291390	Tipo=fpOrface
-Fecha=2024-03-18	Hora=16:31	Nombre=Lautaro Ahumada	Id=43291390	Tipo=fpOrface
-Fecha=2024-03-18	Hora=18:17	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-19	Hora=06:29	Nombre=Mirian Sauco	Id=27639900	Tipo=fpOrface
-Fecha=2024-03-19	Hora=06:30	Nombre=Mirian Sauco	Id=27639900	Tipo=fpOrface
-Fecha=2024-03-19	Hora=07:15	Nombre=Fabio Mirabal	Id=33163250	Tipo=fpOrface
-Fecha=2024-03-19	Hora=10:49	Nombre=Pedro Emanuel Ballesteros	Id=25444119	Tipo=fpOrface
-Fecha=2024-03-19	Hora=13:14	Nombre=Gabriel Mendoza	Id=3	Tipo=fpOrface
-Fecha=2024-03-19	Hora=13:58	Nombre=Exequiel Contreras	Id=30268763	Tipo=fpOrface
-Fecha=2024-03-19	Hora=14:13	Nombre=Pereyra Gabriel Omar	Id=37958599	Tipo=fpOrface
-Fecha=2024-03-19	Hora=14:31	Nombre=Pedro Emanuel Ballesteros	Id=25444119	Tipo=fpOrface
-Fecha=2024-03-19	Hora=15:54	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-19	Hora=15:54	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-19	Hora=17:15	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-20	Hora=06:31	Nombre=Mirian Sauco	Id=27639900	Tipo=fpOrface
-Fecha=2024-03-20	Hora=07:16	Nombre=Fabio Mirabal	Id=33163250	Tipo=fpOrface
-Fecha=2024-03-20	Hora=07:21	Nombre=Jose Luis Sandoval	Id=27976607	Tipo=fpOrface
-Fecha=2024-03-20	Hora=07:22	Nombre=Angel Nicolas Sarmiento Molina	Id=41495350	Tipo=fpOrface
-Fecha=2024-03-20	Hora=10:52	Nombre=Pedro Emanuel Ballesteros	Id=25444119	Tipo=fpOrface
-Fecha=2024-03-20	Hora=13:03	Nombre=Christian Kerstens	Id=6	Tipo=fpOrface
-Fecha=2024-03-20	Hora=13:35	Nombre=Daniel Alejandro Medina	Id=33615907	Tipo=fpOrface
-Fecha=2024-03-20	Hora=14:10	Nombre=Pedro Emanuel Ballesteros	Id=25444119	Tipo=fpOrface
-Fecha=2024-03-20	Hora=14:13	Nombre=Julio Suarez	Id=21335297	Tipo=fpOrface
-Fecha=2024-03-20	Hora=14:16	Nombre=Gabriel Mendoza	Id=3	Tipo=fpOrface
-Fecha=2024-03-20	Hora=15:49	Nombre=Daniel Alejandro Medina	Id=33615907	Tipo=fpOrface
-Fecha=2024-03-20	Hora=16:20	Nombre=Francisco Eduardo Correa	Id=12654239	Tipo=fpOrface
-Fecha=2024-03-20	Hora=17:12	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-20	Hora=17:17	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-20	Hora=19:46	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-20	Hora=21:51	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-20	Hora=22:01	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-20	Hora=22:01	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-21	Hora=06:26	Nombre=Mirian Sauco	Id=27639900	Tipo=fpOrface
-Fecha=2024-03-21	Hora=07:07	Nombre=Angel Nicolas Sarmiento Molina	Id=41495350	Tipo=fpOrface
-Fecha=2024-03-21	Hora=07:21	Nombre=Emilia Olea Babich	Id=34132301	Tipo=fpOrface
-Fecha=2024-03-21	Hora=07:27	Nombre=Gabriel Mendoza	Id=3	Tipo=fpOrface
-Fecha=2024-03-21	Hora=07:28	Nombre=Lautaro Ahumada	Id=43291390	Tipo=fpOrface
-Fecha=2024-03-21	Hora=08:12	Nombre=Julio Suarez	Id=21335297	Tipo=fpOrface
-Fecha=2024-03-21	Hora=11:47	Nombre=Gabriel Mendoza	Id=3	Tipo=fpOrface
-Fecha=2024-03-21	Hora=14:10	Nombre=Julio Suarez	Id=21335297	Tipo=fpOrface
-Fecha=2024-03-21	Hora=14:10	Nombre=Julio Suarez	Id=21335297	Tipo=fpOrface
-Fecha=2024-03-21	Hora=14:10	Nombre=Julio Suarez	Id=21335297	Tipo=fpOrface
-Fecha=2024-03-21	Hora=14:10	Nombre=Julio Suarez	Id=21335297	Tipo=fpOrface
-Fecha=2024-03-21	Hora=14:10	Nombre=Julio Suarez	Id=21335297	Tipo=fpOrface
-Fecha=2024-03-21	Hora=14:16	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-21	Hora=14:17	Nombre=Ibarra Diego Armando	Id=40517296	Tipo=fpOrface
-Fecha=2024-03-21	Hora=14:26	Nombre=Lautaro Ahumada	Id=43291390	Tipo=fpOrface
-Fecha=2024-03-21	Hora=14:26	Nombre=Lautaro Ahumada	Id=43291390	Tipo=fpOrface
-Fecha=2024-03-21	Hora=14:40	Nombre=Daniel Alejandro Medina	Id=33615907	Tipo=fpOrface
-Fecha=2024-03-21	Hora=15:26	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-21	Hora=15:26	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-21	Hora=15:28	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-21	Hora=16:57	Nombre=Angel Nicolas Sarmiento Molina	Id=41495350	Tipo=fpOrface
-Fecha=2024-03-21	Hora=17:50	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-22	Hora=07:21	Nombre=Lautaro Ahumada	Id=43291390	Tipo=fpOrface
-Fecha=2024-03-22	Hora=09:09	Nombre=Daniel Alejandro Medina	Id=33615907	Tipo=fpOrface
-Fecha=2024-03-22	Hora=10:06	Nombre=Exequiel Contreras	Id=30268763	Tipo=fpOrface
-Fecha=2024-03-22	Hora=11:16	Nombre=Andrés Lanuel	Id=10645769	Tipo=fpOrface
-Fecha=2024-03-22	Hora=12:31	Nombre=Julio Suarez	Id=21335297	Tipo=fpOrface
-Fecha=2024-03-22	Hora=13:58	Nombre=Ibarra Diego Armando	Id=40517296	Tipo=fpOrface
-Fecha=2024-03-22	Hora=19:55	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-25	Hora=07:15	Nombre=Angel Nicolas Sarmiento Molina	Id=41495350	Tipo=fpOrface
-Fecha=2024-03-25	Hora=11:55	Nombre=Daniel Alejandro Medina	Id=33615907	Tipo=fpOrface
-Fecha=2024-03-25	Hora=11:55	Nombre=Daniel Alejandro Medina	Id=33615907	Tipo=fpOrface
-Fecha=2024-03-25	Hora=14:14	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-25	Hora=14:14	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-25	Hora=15:05	Nombre=Lautaro Ahumada	Id=43291390	Tipo=fpOrface
-Fecha=2024-03-25	Hora=15:39	Nombre=Gabriel Mendoza	Id=3	Tipo=fpOrface
-Fecha=2024-03-25	Hora=16:04	Nombre=Juan José Maccio	Id=26883371	Tipo=fpOrface
-Fecha=2024-03-25	Hora=16:15	Nombre=Ibarra Diego Armando	Id=40517296	Tipo=fpOrface
-Fecha=2024-03-25	Hora=16:15	Nombre=Ibarra Diego Armando	Id=40517296	Tipo=fpOrface
-Fecha=2024-03-25	Hora=19:18	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-25	Hora=19:28	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-25	Hora=19:28	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-25	Hora=19:28	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-25	Hora=19:28	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-25	Hora=19:28	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-26	Hora=07:05	Nombre=Sofía Suarez	Id=43773165	Tipo=fpOrface
-Fecha=2024-03-26	Hora=10:37	Nombre=Pedro Emanuel Ballesteros	Id=25444119	Tipo=fpOrface
-Fecha=2024-03-26	Hora=11:13	Nombre=Daniel Alejandro Medina	Id=33615907	Tipo=fpOrface
-Fecha=2024-03-26	Hora=11:13	Nombre=Daniel Alejandro Medina	Id=33615907	Tipo=fpOrface
-Fecha=2024-03-26	Hora=12:31	Nombre=Lautaro Ahumada	Id=43291390	Tipo=fpOrface
-Fecha=2024-03-26	Hora=12:47	Nombre=Fabio Mirabal	Id=33163250	Tipo=fpOrface
-Fecha=2024-03-26	Hora=12:53	Nombre=Fabio Mirabal	Id=33163250	Tipo=fpOrface
-Fecha=2024-03-26	Hora=12:55	Nombre=Fabio Mirabal	Id=33163250	Tipo=fpOrface
-Fecha=2024-03-26	Hora=12:56	Nombre=Fabio Mirabal	Id=33163250	Tipo=fpOrface
-Fecha=2024-03-26	Hora=12:56	Nombre=Fabio Mirabal	Id=33163250	Tipo=fpOrface
-Fecha=2024-03-26	Hora=13:53	Nombre=Pedro Emanuel Ballesteros	Id=25444119	Tipo=fpOrface
-Fecha=2024-03-26	Hora=13:53	Nombre=Pedro Emanuel Ballesteros	Id=25444119	Tipo=fpOrface
-Fecha=2024-03-26	Hora=14:10	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-26	Hora=14:10	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-26	Hora=17:35	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-27	Hora=11:07	Nombre=Andrés Lanuel	Id=10645769	Tipo=fpOrface
-Fecha=2024-03-27	Hora=12:31	Nombre=Roberto Albornoz	Id=20179331	Tipo=fpOrface
-Fecha=2024-03-27	Hora=13:34	Nombre=Angel Nicolas Sarmiento Molina	Id=41495350	Tipo=fpOrface
-Fecha=2024-03-27	Hora=14:15	Nombre=Pedro Emanuel Ballesteros	Id=25444119	Tipo=fpOrface
-Fecha=2024-03-27	Hora=17:09	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-27	Hora=18:52	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-27	Hora=19:09	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-27	Hora=21:18	Nombre=Corbalán Jorge Luciano	Id=41982153	Tipo=fpOrface
-Fecha=2024-03-28	Hora=08:12	Nombre=Julio Suarez	Id=21335297	Tipo=fpOrface
-Fecha=2024-03-28	Hora=12:10	Nombre=Daniel Alejandro Medina	Id=33615907	Tipo=fpOrface
+26455604	Luis Alejandro Marquez	blackList	2023-04-03T00:00:00	2033-04-02T23:59:59
+3	Gabriel Mendoza	normal	2017-08-01T17:30:08	2025-08-01T17:30:08
+5	Julian Rubiol	normal	2017-08-01T17:30:08	2025-08-01T17:30:08
+34132301	Emilia Olea Babich	normal	2023-04-10T00:00:00	2033-04-09T23:59:59
+43291390	Lautaro Ahumada	normal	2023-04-12T00:00:00	2033-04-11T23:59:59
+26412500	Ariel Sleiman	normal	2023-04-14T00:00:00	2033-04-13T23:59:59
+26454030	José Santillán	normal	2023-04-14T00:00:00	2033-04-13T23:59:59
+29060158	Gabriel Sleiman	normal	2023-04-14T00:00:00	2033-04-13T23:59:59
+12607804	Mirande Juan Carlos	normal	2023-04-14T00:00:00	2033-04-13T23:59:59
+32132594	Germán Di Bacco	normal	2023-04-14T00:00:00	2033-04-13T23:59:59
+25510409	Marcelo Bobadilla	normal	2023-04-14T00:00:00	2033-04-13T23:59:59
+41982153	Corbalán Jorge Luciano	normal	2023-04-14T00:00:00	2033-04-13T23:59:59
+27001546	Hugo Orlando Suarez	normal	2023-04-14T00:00:00	2033-04-13T23:59:59
+27843086	Julio Eduardo Alcaraz	normal	2023-04-14T00:00:00	2033-04-13T23:59:59
+24802312	Esteban Manuel Sanchez	normal	2023-04-14T00:00:00	2033-04-13T23:59:59
+25542838	Federico José Soria	normal	2023-04-14T00:00:00	2033-04-13T23:59:59
+28681132	Diego Esteban Nuñez	normal	2023-04-14T00:00:00	2033-04-13T23:59:59
+16130758	Jorge Buzzo	normal	2023-04-14T00:00:00	2033-04-13T23:59:59
+95853951	Dixon Alfredo Montilla	normal	2023-04-14T00:00:00	2033-04-13T23:59:59
+25444119	Pedro Emanuel Ballesteros	normal	2023-04-14T00:00:00	2033-04-13T23:59:59
+23889440	Alvarez Adriana del Valle	normal	2023-04-14T00:00:00	2033-04-13T23:59:59
+34133680	Fazio Cesar Mariano	normal	2023-04-14T00:00:00	2033-04-13T23:59:59
+26883371	Juan José Maccio	normal	2023-04-14T00:00:00	2033-04-13T23:59:59
+35809475	Lourde Flaviana Sandoval	normal	2023-04-14T00:00:00	2033-04-13T23:59:59
+34910812	Enzo Rodrigo Nieto Alcaraz	normal	2023-04-14T00:00:00	2033-04-13T23:59:59
+33615907	Daniel Alejandro Medina	normal	2023-04-14T00:00:00	2033-04-13T23:59:59
+26454254	Miguel Fernando Rios	normal	2023-04-14T00:00:00	2033-04-13T23:59:59
+36865485	Agustin Navarro	normal	2023-04-14T00:00:00	2033-04-13T23:59:59
+30767307	Manuel Ignacio Cobos	normal	2023-04-14T00:00:00	2033-04-13T23:59:59
+34138958	Federico Nelegatti	normal	2023-04-14T00:00:00	2033-04-13T23:59:59
+27976607	Jose Luis Sandoval	normal	2023-04-14T00:00:00	2033-04-13T23:59:59
+34286132	Fabian Leonardo Diaz	normal	2023-04-14T00:00:00	2033-04-13T23:59:59
+32853615	Matias Villagra	normal	2023-04-14T00:00:00	2033-04-13T23:59:59
+29788918	Jose Luis Alcaraz	normal	2023-04-14T00:00:00	2033-04-13T23:59:59
+26859725	Victor Antonio Montenegro	normal	2023-04-14T00:00:00	2033-04-13T23:59:59
+16946021	Marcelo Gumercindo Villareal	normal	2023-04-14T00:00:00	2033-04-13T23:59:59
+12654239	Francisco Eduardo Correa	normal	2023-04-14T00:00:00	2033-04-13T23:59:59
+21335297	Julio Suarez	normal	2023-04-14T00:00:00	2033-04-13T23:59:59
+42467268	Valentina Belén Lazarte	normal	2023-04-14T00:00:00	2033-04-13T23:59:59
+36743997	Florencia Antonella Peñalva	normal	2023-04-14T00:00:00	2033-04-13T23:59:59
+35809439	Carlos Fernando Algañaraz	normal	2023-04-14T00:00:00	2033-04-13T23:59:59
+22231441	Marcelo Brito	normal	2023-04-14T00:00:00	2033-04-13T23:59:59
+27639900	Mirian Sauco	normal	2023-04-14T00:00:00	2033-04-13T23:59:59
+30541833	Marcos Pfister	normal	2023-04-14T00:00:00	2033-04-13T23:59:59
+24631889	Esteban Barraza	normal	2023-04-14T00:00:00	2033-04-13T23:59:59
+41495350	Angel Nicolas Sarmiento Molina	normal	2023-04-17T00:00:00	2033-04-16T23:59:59
+26957060	Esteban Alfredo Brito	normal	2023-04-17T00:00:00	2033-04-16T23:59:59
+40517296	Ibarra Diego Armando	normal	2023-04-18T00:00:00	2033-04-17T23:59:59
+26412233	Angel Antonio Herrera	normal	2023-04-17T00:00:00	2033-04-16T23:59:59
+29179656	Jose Ramon Goyenechea	normal	2023-04-17T00:00:00	2033-04-16T23:59:59
+30177625	Gustavo Dip	normal	2023-04-17T00:00:00	2033-04-16T23:59:59
+36420310	Lucas Ferro	normal	2023-04-17T00:00:00	2033-04-16T23:59:59
+22806360	Cesar Dario Giedris	normal	2023-04-17T00:00:00	2033-04-16T23:59:59
+42525254	Juan Sebastian Toscano	normal	2023-04-18T00:00:00	2033-04-17T23:59:59
+27519498	Monica Patrica Soria	normal	2023-04-17T00:00:00	2033-04-16T23:59:59
+30268763	Exequiel Contreras	normal	2023-04-18T00:00:00	2033-04-17T23:59:59
+29541136	Maria Virginia Alvarez	normal	2023-04-19T00:00:00	2033-04-18T23:59:59
+34133219	Lanoel Bernardo	normal	2023-04-21T00:00:00	2033-04-20T23:59:59
+27364059	Velarde Ignacio	normal	2023-04-21T00:00:00	2033-04-20T23:59:59
+17270110	Hector Mario Lagoria	normal	2023-05-03T00:00:00	2033-05-02T23:59:59
+34133994	Carlos Fernando Saavedra	normal	2023-05-18T00:00:00	2033-05-17T23:59:59
+10645769	Andrés Lanuel	normal	2023-05-19T00:00:00	2033-05-18T23:59:59
+6	Christian Kerstens	normal	2023-06-13T00:00:00	2033-06-12T23:59:59
+33163250	Fabio Mirabal	normal	2023-07-18T00:00:00	2033-07-17T23:59:59
+43773165	Sofía Suarez	normal	2023-08-02T00:00:00	2033-08-01T23:59:59
+8564843	Carlos Ovejero	normal	2023-08-04T00:00:00	2033-08-03T23:59:59
+20179331	Roberto Albornoz	normal	2023-09-15T00:00:00	2033-09-14T23:59:59
+31842533	JOSE MARTIN AMADOR	normal	2023-11-02T00:00:00	2033-11-01T23:59:59
+37958599	Pereyra Gabriel Omar	normal	2023-11-02T00:00:00	2033-11-01T23:59:59
+22497	Camilo Wahab	normal	2024-01-01T00:00:00	2032-12-12T23:59:59

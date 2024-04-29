@@ -32,7 +32,7 @@ def ReadEvents(url, user, passwd, json_data):
     total_registros = None    
     fdesde = json_data["AcsEventCond"]["startTime"]
     fhasta = json_data["AcsEventCond"]["endTime"]    
-    with open(r'salida.txt', 'w', encoding='utf-8') as archivos:    
+    with open(r'c:\tmp\salida.txt', 'w', encoding='utf-8') as archivos:    
         while True:
             json_entrada = json_entrada_leer(fdesde, fhasta, pos)
             response = requests.post(path, auth=HTTPDigestAuth(user, passwd), json=json_entrada)
@@ -55,7 +55,7 @@ def ReadEvents(url, user, passwd, json_data):
                 else:
                     break
             else:
-                # Si la solicitud no fue exitosa, imprimir el código de estado
+                # Si la solicitud no fue exitosa, imprimir el códigitgo de estado
                 print(f'Error: {response.status_code}')
                 break
     archivos.close()

@@ -4,7 +4,7 @@ import os
 
 def addFaceRecord(host, auth, img, json_data):
     url = f'{host}/ISAPI/Intelligent/FDLib/FaceDataRecord?format=json'
-
+    print (img)
     with open(img, 'rb') as image_file:
         image_data = image_file.read()
 
@@ -16,7 +16,7 @@ def addFaceRecord(host, auth, img, json_data):
 
     response = requests.post(url, auth=auth, files=files)
 
-    with open() as archivos:
+    with open(r'c:\tmp\salida.txt') as archivos:
         if response.status_code == 200:
             archivos.write('OK')
         else:
