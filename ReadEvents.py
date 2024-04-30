@@ -40,6 +40,7 @@ def ReadEvents(url, user, passwd, json_data):
                 json_data = response.json()
                 if total_registros == None:
                     total_registros = json_data["AcsEvent"]["totalMatches"]
+                print (f'Num of Matched: {json_data["AcsEvent"]["numOfMatches"]} - {json_data["AcsEvent"]["totalMatches"]} - {json_data["AcsEvent"]["responseStatusStrg"]}')
                 if int(json_data["AcsEvent"]["numOfMatches"]) > 0:
                     try:
                         for info in json_data["AcsEvent"]["InfoList"]:
@@ -47,6 +48,7 @@ def ReadEvents(url, user, passwd, json_data):
                             hora_minutos = hora.split(':')[0:2]
                             hora_minutos_str = ":".join(hora_minutos)
                             linea_proc = f"Fecha={fecha}\tHora={hora_minutos_str}\tNombre={info['name']}\tId={info['employeeNoString']}\tTipo={info['currentVerifyMode']}"
+                            #print ( linea_proc )
                             archivos.write (linea_proc + '\n')
                         pos = pos + 30
                     except Exception as e:
@@ -54,9 +56,12 @@ def ReadEvents(url, user, passwd, json_data):
                         break
                 else:
                     break
+                if json_data["AcsEvent"]["responseStatusStrg"] == 'OK':
+                    break
             else:
                 # Si la solicitud no fue exitosa, imprimir el códigitgo de estado
                 print(f'Error: {response.status_code}')
+                print ( response.json() )
                 break
     archivos.close()
     print(f'Cantidad de Registros Visualizado: {total_registros}')

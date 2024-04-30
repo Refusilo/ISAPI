@@ -1,8 +1,9 @@
 import paramiko
 import argparse
+import shutil
 
 def main():
-    parser = argparse.ArgumentParser(description="Sistema de lectura de MsAccess")
+    parser = argparse.ArgumentParser(description="Copiado de Archivos")
     parser.add_argument("--ifile", help="Archivo Origen")
     parser.add_argument("--ofile", help="Archivo Salida")
     parser.add_argument("--host", help="Servidor Destino")
@@ -12,7 +13,16 @@ def main():
     args = parser.parse_args()
     
     return args.ifile, args.ofile, args.host, args.user, args.passwd
-    
+
+def copiar_archivo(origen, destino):
+    try:
+        shutil.copyfile(origen, destino)
+        print(f"Archivo copiado de '{origen}' a '{destino}'")
+    except FileNotFoundError:
+        print("Error: Archivo de origen no encontrado.")
+    except PermissionError:
+        print("Error: Permiso denegado para escribir en el destino.")
+
 def subir_archivo_sftp(ruta_local, ruta_remota, servidor, puerto, usuario, clave):
     # Conexión al servidor SFTP
     cliente = paramiko.SSHClient()

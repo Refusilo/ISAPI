@@ -3,17 +3,17 @@
         "searchID": "0",
         "responseStatusStrg": "MORE",
         "numOfMatches": 30,
-        "totalMatches": 70,
+        "totalMatches": 1884,
         "UserInfo": [
             {
-                "employeeNo": "26455604",
-                "name": "Luis Alejandro Marquez",
-                "userType": "blackList",
+                "employeeNo": "39359037",
+                "name": "ABREGU DAVID EXEQUIEL",
+                "userType": "normal",
                 "closeDelayEnabled": false,
                 "Valid": {
                     "enable": true,
-                    "beginTime": "2023-04-03T00:00:00",
-                    "endTime": "2033-04-02T23:59:59",
+                    "beginTime": "2023-09-05T15:24:24",
+                    "endTime": "2033-09-05T15:24:24",
                     "timeType": "local"
                 },
                 "belongGroup": "",
@@ -27,27 +27,27 @@
                 ],
                 "maxOpenDoorTime": 0,
                 "openDoorTime": 0,
+                "roomNumber": 0,
+                "floorNumber": 0,
                 "localUIRight": false,
                 "gender": "male",
                 "numOfCard": 0,
-                "numOfFP": 1,
                 "numOfFace": 1,
                 "PersonInfoExtends": [
                     {
                         "value": ""
                     }
-                ],
-                "faceURL": "http://192.168.68.200/LOCALS/pic/enrlFace/0/0000000010.jpg@WEB000000002414"
+                ]
             },
             {
-                "employeeNo": "3",
-                "name": "Gabriel Mendoza",
+                "employeeNo": "24208868",
+                "name": "ACOSTA DANIEL DEL VALLE",
                 "userType": "normal",
                 "closeDelayEnabled": false,
                 "Valid": {
                     "enable": true,
-                    "beginTime": "2017-08-01T17:30:08",
-                    "endTime": "2025-08-01T17:30:08",
+                    "beginTime": "2023-09-05T15:24:24",
+                    "endTime": "2033-09-05T15:24:24",
                     "timeType": "local"
                 },
                 "belongGroup": "",
@@ -61,29 +61,129 @@
                 ],
                 "maxOpenDoorTime": 0,
                 "openDoorTime": 0,
-                "roomNumber": 9999,
-                "floorNumber": 222,
+                "roomNumber": 0,
+                "floorNumber": 0,
                 "localUIRight": false,
                 "gender": "male",
-                "numOfCard": 1,
-                "numOfFP": 1,
+                "numOfCard": 0,
+                "numOfFace": 0,
+                "PersonInfoExtends": [
+                    {
+                        "value": ""
+                    }
+                ]
+            },
+            {
+                "employeeNo": "26572556",
+                "name": "ACOSTA HUGO EDUARDO",
+                "userType": "normal",
+                "closeDelayEnabled": false,
+                "Valid": {
+                    "enable": true,
+                    "beginTime": "2023-09-05T15:24:24",
+                    "endTime": "2033-09-05T15:24:24",
+                    "timeType": "local"
+                },
+                "belongGroup": "",
+                "password": "",
+                "doorRight": "1",
+                "RightPlan": [
+                    {
+                        "doorNo": 1,
+                        "planTemplateNo": "1"
+                    }
+                ],
+                "maxOpenDoorTime": 0,
+                "openDoorTime": 0,
+                "roomNumber": 0,
+                "floorNumber": 0,
+                "localUIRight": false,
+                "gender": "male",
+                "numOfCard": 0,
+                "numOfFace": 0,
+                "PersonInfoExtends": [
+                    {
+                        "value": ""
+                    }
+                ]
+            },
+            {
+                "employeeNo": "36799418",
+                "name": "ACOSTA JOAQUIN FEDERICO ALBANO",
+                "userType": "normal",
+                "closeDelayEnabled": false,
+                "Valid": {
+                    "enable": true,
+                    "beginTime": "2023-09-05T15:24:24",
+                    "endTime": "2033-09-05T15:24:24",
+                    "timeType": "local"
+                },
+                "belongGroup": "",
+                "password": "",
+                "doorRight": "1",
+                "RightPlan": [
+                    {
+                        "doorNo": 1,
+                        "planTemplateNo": "1"
+                    }
+                ],
+                "maxOpenDoorTime": 0,
+                "openDoorTime": 0,
+                "roomNumber": 0,
+                "floorNumber": 0,
+                "localUIRight": false,
+                "gender": "male",
+                "numOfCard": 0,
+                "numOfFace": 0,
+                "PersonInfoExtends": [
+                    {
+                        "value": ""
+                    }
+                ]
+            },
+            {
+                "employeeNo": "29103126",
+                "name": "ACOSTA JUAN RAMON",
+                "userType": "normal",
+                "closeDelayEnabled": false,
+                "Valid": {
+                    "enable": true,
+                    "beginTime": "2023-09-05T15:24:24",
+                    "endTime": "2033-09-05T15:24:24",
+                    "timeType": "local"
+                },
+                "belongGroup": "",
+                "password": "",
+                "doorRight": "1",
+                "RightPlan": [
+                    {
+                        "doorNo": 1,
+                        "planTemplateNo": "1"
+                    }
+                ],
+                "maxOpenDoorTime": 0,
+                "openDoorTime": 0,
+                "roomNumber": 0,
+                "floorNumber": 0,
+                "localUIRight": false,
+                "gender": "male",
+                "numOfCard": 0,
                 "numOfFace": 1,
                 "PersonInfoExtends": [
                     {
                         "value": ""
                     }
-                ],
-                "faceURL": "http://192.168.68.200/LOCALS/pic/enrlFace/0/0000000001.jpg@WEB000000002415"
+                ]
             },
             {
-                "employeeNo": "5",
-                "name": "Julian Rubiol",
+                "employeeNo": "31809749",
+                "name": "ACOSTA LUIS MARCOS",
                 "userType": "normal",
                 "closeDelayEnabled": false,
                 "Valid": {
                     "enable": true,
-                    "beginTime": "2017-08-01T17:30:08",
-                    "endTime": "2025-08-01T17:30:08",
+                    "beginTime": "2023-09-05T15:24:24",
+                    "endTime": "2033-09-05T15:24:24",
                     "timeType": "local"
                 },
                 "belongGroup": "",
@@ -97,27 +197,61 @@
                 ],
                 "maxOpenDoorTime": 0,
                 "openDoorTime": 0,
+                "roomNumber": 0,
+                "floorNumber": 0,
                 "localUIRight": false,
                 "gender": "male",
                 "numOfCard": 0,
-                "numOfFP": 1,
+                "numOfFace": 0,
+                "PersonInfoExtends": [
+                    {
+                        "value": ""
+                    }
+                ]
+            },
+            {
+                "employeeNo": "40236632",
+                "name": "ACOSTA MARCELO OSCAR",
+                "userType": "normal",
+                "closeDelayEnabled": false,
+                "Valid": {
+                    "enable": true,
+                    "beginTime": "2023-09-05T15:24:24",
+                    "endTime": "2033-09-05T15:24:24",
+                    "timeType": "local"
+                },
+                "belongGroup": "",
+                "password": "",
+                "doorRight": "1",
+                "RightPlan": [
+                    {
+                        "doorNo": 1,
+                        "planTemplateNo": "1"
+                    }
+                ],
+                "maxOpenDoorTime": 0,
+                "openDoorTime": 0,
+                "roomNumber": 0,
+                "floorNumber": 0,
+                "localUIRight": false,
+                "gender": "male",
+                "numOfCard": 0,
                 "numOfFace": 1,
                 "PersonInfoExtends": [
                     {
                         "value": ""
                     }
-                ],
-                "faceURL": "http://192.168.68.200/LOCALS/pic/enrlFace/0/0000000014.jpg@WEB000000002416"
+                ]
             },
             {
-                "employeeNo": "34132301",
-                "name": "Emilia Olea Babich",
+                "employeeNo": "12461686",
+                "name": "ACOSTA VICTOR EDUARDO",
                 "userType": "normal",
                 "closeDelayEnabled": false,
                 "Valid": {
                     "enable": true,
-                    "beginTime": "2023-04-10T00:00:00",
-                    "endTime": "2033-04-09T23:59:59",
+                    "beginTime": "2023-09-05T15:24:24",
+                    "endTime": "2033-09-05T15:24:24",
                     "timeType": "local"
                 },
                 "belongGroup": "",
@@ -131,27 +265,27 @@
                 ],
                 "maxOpenDoorTime": 0,
                 "openDoorTime": 0,
+                "roomNumber": 0,
+                "floorNumber": 0,
                 "localUIRight": false,
-                "gender": "female",
+                "gender": "male",
                 "numOfCard": 0,
-                "numOfFP": 1,
                 "numOfFace": 1,
                 "PersonInfoExtends": [
                     {
                         "value": ""
                     }
-                ],
-                "faceURL": "http://192.168.68.200/LOCALS/pic/enrlFace/0/0000000012.jpg@WEB000000002417"
+                ]
             },
             {
-                "employeeNo": "43291390",
-                "name": "Lautaro Ahumada",
+                "employeeNo": "32960058",
+                "name": "ADAN DIEGO ARMANDO",
                 "userType": "normal",
                 "closeDelayEnabled": false,
                 "Valid": {
                     "enable": true,
-                    "beginTime": "2023-04-12T00:00:00",
-                    "endTime": "2033-04-11T23:59:59",
+                    "beginTime": "2023-09-05T15:24:24",
+                    "endTime": "2033-09-05T15:24:24",
                     "timeType": "local"
                 },
                 "belongGroup": "",
@@ -165,27 +299,129 @@
                 ],
                 "maxOpenDoorTime": 0,
                 "openDoorTime": 0,
+                "roomNumber": 0,
+                "floorNumber": 0,
                 "localUIRight": false,
                 "gender": "male",
                 "numOfCard": 0,
-                "numOfFP": 1,
+                "numOfFace": 0,
+                "PersonInfoExtends": [
+                    {
+                        "value": ""
+                    }
+                ]
+            },
+            {
+                "employeeNo": "23017898",
+                "name": "AGUERO DANIEL GUSTAVO",
+                "userType": "normal",
+                "closeDelayEnabled": false,
+                "Valid": {
+                    "enable": true,
+                    "beginTime": "2023-09-05T15:24:24",
+                    "endTime": "2033-09-05T15:24:24",
+                    "timeType": "local"
+                },
+                "belongGroup": "",
+                "password": "",
+                "doorRight": "1",
+                "RightPlan": [
+                    {
+                        "doorNo": 1,
+                        "planTemplateNo": "1"
+                    }
+                ],
+                "maxOpenDoorTime": 0,
+                "openDoorTime": 0,
+                "roomNumber": 0,
+                "floorNumber": 0,
+                "localUIRight": false,
+                "gender": "male",
+                "numOfCard": 0,
+                "numOfFace": 0,
+                "PersonInfoExtends": [
+                    {
+                        "value": ""
+                    }
+                ]
+            },
+            {
+                "employeeNo": "25331340",
+                "name": "AGUERO JOSE ANTONIO",
+                "userType": "normal",
+                "closeDelayEnabled": false,
+                "Valid": {
+                    "enable": true,
+                    "beginTime": "2023-09-05T15:24:24",
+                    "endTime": "2033-09-05T15:24:24",
+                    "timeType": "local"
+                },
+                "belongGroup": "",
+                "password": "",
+                "doorRight": "1",
+                "RightPlan": [
+                    {
+                        "doorNo": 1,
+                        "planTemplateNo": "1"
+                    }
+                ],
+                "maxOpenDoorTime": 0,
+                "openDoorTime": 0,
+                "roomNumber": 0,
+                "floorNumber": 0,
+                "localUIRight": false,
+                "gender": "male",
+                "numOfCard": 0,
+                "numOfFace": 0,
+                "PersonInfoExtends": [
+                    {
+                        "value": ""
+                    }
+                ]
+            },
+            {
+                "employeeNo": "16540372",
+                "name": "AGUERO MARIO DANIEL",
+                "userType": "normal",
+                "closeDelayEnabled": false,
+                "Valid": {
+                    "enable": true,
+                    "beginTime": "2023-09-05T15:24:24",
+                    "endTime": "2033-09-05T15:24:24",
+                    "timeType": "local"
+                },
+                "belongGroup": "",
+                "password": "",
+                "doorRight": "1",
+                "RightPlan": [
+                    {
+                        "doorNo": 1,
+                        "planTemplateNo": "1"
+                    }
+                ],
+                "maxOpenDoorTime": 0,
+                "openDoorTime": 0,
+                "roomNumber": 0,
+                "floorNumber": 0,
+                "localUIRight": false,
+                "gender": "male",
+                "numOfCard": 0,
                 "numOfFace": 1,
                 "PersonInfoExtends": [
                     {
                         "value": ""
                     }
-                ],
-                "faceURL": "http://192.168.68.200/LOCALS/pic/enrlFace/0/0000000011.jpg@WEB000000002418"
+                ]
             },
             {
-                "employeeNo": "26412500",
-                "name": "Ariel Sleiman",
+                "employeeNo": "16687225",
+                "name": "AGUERO ROJAS LUIS VICTOR MANUEL",
                 "userType": "normal",
                 "closeDelayEnabled": false,
                 "Valid": {
                     "enable": true,
-                    "beginTime": "2023-04-14T00:00:00",
-                    "endTime": "2033-04-13T23:59:59",
+                    "beginTime": "2023-09-05T15:24:24",
+                    "endTime": "2033-09-05T15:24:24",
                     "timeType": "local"
                 },
                 "belongGroup": "",
@@ -199,10 +435,11 @@
                 ],
                 "maxOpenDoorTime": 0,
                 "openDoorTime": 0,
+                "roomNumber": 0,
+                "floorNumber": 0,
                 "localUIRight": false,
                 "gender": "male",
                 "numOfCard": 0,
-                "numOfFP": 1,
                 "numOfFace": 0,
                 "PersonInfoExtends": [
                     {
@@ -211,14 +448,14 @@
                 ]
             },
             {
-                "employeeNo": "26454030",
-                "name": "Jos\u00e9 Santill\u00e1n",
+                "employeeNo": "16460732",
+                "name": "AGUIAR JUAN FRANCISCO",
                 "userType": "normal",
                 "closeDelayEnabled": false,
                 "Valid": {
                     "enable": true,
-                    "beginTime": "2023-04-14T00:00:00",
-                    "endTime": "2033-04-13T23:59:59",
+                    "beginTime": "2023-09-05T15:24:24",
+                    "endTime": "2033-09-05T15:24:24",
                     "timeType": "local"
                 },
                 "belongGroup": "",
@@ -232,27 +469,27 @@
                 ],
                 "maxOpenDoorTime": 0,
                 "openDoorTime": 0,
+                "roomNumber": 0,
+                "floorNumber": 0,
                 "localUIRight": false,
                 "gender": "male",
                 "numOfCard": 0,
-                "numOfFP": 1,
                 "numOfFace": 1,
                 "PersonInfoExtends": [
                     {
                         "value": ""
                     }
-                ],
-                "faceURL": "http://192.168.68.200/LOCALS/pic/enrlFace/0/0000000002.jpg@WEB000000002419"
+                ]
             },
             {
-                "employeeNo": "29060158",
-                "name": "Gabriel Sleiman",
+                "employeeNo": "37958539",
+                "name": "AGUIAR JUAN NAZARENO",
                 "userType": "normal",
                 "closeDelayEnabled": false,
                 "Valid": {
                     "enable": true,
-                    "beginTime": "2023-04-14T00:00:00",
-                    "endTime": "2033-04-13T23:59:59",
+                    "beginTime": "2023-09-05T15:24:24",
+                    "endTime": "2033-09-05T15:24:24",
                     "timeType": "local"
                 },
                 "belongGroup": "",
@@ -266,27 +503,27 @@
                 ],
                 "maxOpenDoorTime": 0,
                 "openDoorTime": 0,
+                "roomNumber": 0,
+                "floorNumber": 0,
                 "localUIRight": false,
                 "gender": "male",
                 "numOfCard": 0,
-                "numOfFP": 1,
                 "numOfFace": 1,
                 "PersonInfoExtends": [
                     {
                         "value": ""
                     }
-                ],
-                "faceURL": "http://192.168.68.200/LOCALS/pic/enrlFace/0/0000000009.jpg@WEB000000002420"
+                ]
             },
             {
-                "employeeNo": "12607804",
-                "name": "Mirande Juan Carlos",
+                "employeeNo": "32110221",
+                "name": "AGUILAR ANTONIO ARMANDO",
                 "userType": "normal",
                 "closeDelayEnabled": false,
                 "Valid": {
                     "enable": true,
-                    "beginTime": "2023-04-14T00:00:00",
-                    "endTime": "2033-04-13T23:59:59",
+                    "beginTime": "2023-09-05T15:24:24",
+                    "endTime": "2033-09-05T15:24:24",
                     "timeType": "local"
                 },
                 "belongGroup": "",
@@ -300,60 +537,27 @@
                 ],
                 "maxOpenDoorTime": 0,
                 "openDoorTime": 0,
+                "roomNumber": 0,
+                "floorNumber": 0,
                 "localUIRight": false,
                 "gender": "male",
                 "numOfCard": 0,
-                "numOfFP": 0,
                 "numOfFace": 1,
                 "PersonInfoExtends": [
                     {
                         "value": ""
                     }
-                ],
-                "faceURL": "http://192.168.68.200/LOCALS/pic/enrlFace/0/0000000003.jpg@WEB000000002421"
-            },
-            {
-                "employeeNo": "32132594",
-                "name": "Germ\u00e1n Di Bacco",
-                "userType": "normal",
-                "closeDelayEnabled": false,
-                "Valid": {
-                    "enable": true,
-                    "beginTime": "2023-04-14T00:00:00",
-                    "endTime": "2033-04-13T23:59:59",
-                    "timeType": "local"
-                },
-                "belongGroup": "",
-                "password": "",
-                "doorRight": "1",
-                "RightPlan": [
-                    {
-                        "doorNo": 1,
-                        "planTemplateNo": "1"
-                    }
-                ],
-                "maxOpenDoorTime": 0,
-                "openDoorTime": 0,
-                "localUIRight": false,
-                "gender": "male",
-                "numOfCard": 0,
-                "numOfFP": 1,
-                "numOfFace": 0,
-                "PersonInfoExtends": [
-                    {
-                        "value": ""
-                    }
                 ]
             },
             {
-                "employeeNo": "25510409",
-                "name": "Marcelo Bobadilla",
+                "employeeNo": "26028693",
+                "name": "AGUILAR HUGO ORLANDO",
                 "userType": "normal",
                 "closeDelayEnabled": false,
                 "Valid": {
                     "enable": true,
-                    "beginTime": "2023-04-14T00:00:00",
-                    "endTime": "2033-04-13T23:59:59",
+                    "beginTime": "2023-09-05T15:24:24",
+                    "endTime": "2033-09-05T15:24:24",
                     "timeType": "local"
                 },
                 "belongGroup": "",
@@ -367,93 +571,27 @@
                 ],
                 "maxOpenDoorTime": 0,
                 "openDoorTime": 0,
+                "roomNumber": 0,
+                "floorNumber": 0,
                 "localUIRight": false,
                 "gender": "male",
                 "numOfCard": 0,
-                "numOfFP": 1,
-                "numOfFace": 0,
-                "PersonInfoExtends": [
-                    {
-                        "value": ""
-                    }
-                ]
-            },
-            {
-                "employeeNo": "41982153",
-                "name": "Corbal\u00e1n Jorge Luciano",
-                "userType": "normal",
-                "closeDelayEnabled": false,
-                "Valid": {
-                    "enable": true,
-                    "beginTime": "2023-04-14T00:00:00",
-                    "endTime": "2033-04-13T23:59:59",
-                    "timeType": "local"
-                },
-                "belongGroup": "",
-                "password": "",
-                "doorRight": "1",
-                "RightPlan": [
-                    {
-                        "doorNo": 1,
-                        "planTemplateNo": "1"
-                    }
-                ],
-                "maxOpenDoorTime": 0,
-                "openDoorTime": 0,
-                "localUIRight": false,
-                "gender": "male",
-                "numOfCard": 0,
-                "numOfFP": 2,
                 "numOfFace": 1,
                 "PersonInfoExtends": [
                     {
                         "value": ""
                     }
-                ],
-                "faceURL": "http://192.168.68.200/LOCALS/pic/enrlFace/0/0000000016.jpg@WEB000000002422"
-            },
-            {
-                "employeeNo": "27001546",
-                "name": "Hugo Orlando Suarez",
-                "userType": "normal",
-                "closeDelayEnabled": false,
-                "Valid": {
-                    "enable": true,
-                    "beginTime": "2023-04-14T00:00:00",
-                    "endTime": "2033-04-13T23:59:59",
-                    "timeType": "local"
-                },
-                "belongGroup": "",
-                "password": "",
-                "doorRight": "1",
-                "RightPlan": [
-                    {
-                        "doorNo": 1,
-                        "planTemplateNo": "1"
-                    }
-                ],
-                "maxOpenDoorTime": 0,
-                "openDoorTime": 0,
-                "localUIRight": false,
-                "gender": "male",
-                "numOfCard": 0,
-                "numOfFP": 1,
-                "numOfFace": 0,
-                "PersonInfoExtends": [
-                    {
-                        "value": ""
-                    }
                 ]
             },
             {
-                "employeeNo": "27843086",
-                "name": "Julio Eduardo Alcaraz",
+                "employeeNo": "36998453",
+                "name": "AGUILAR JAVIER ALBERTO",
                 "userType": "normal",
                 "closeDelayEnabled": false,
                 "Valid": {
                     "enable": true,
-                    "beginTime": "2023-04-14T00:00:00",
-                    "endTime": "2033-04-13T23:59:59",
+                    "beginTime": "2023-09-05T15:24:24",
+                    "endTime": "2033-09-05T15:24:24",
                     "timeType": "local"
                 },
                 "belongGroup": "",
@@ -467,258 +605,27 @@
                 ],
                 "maxOpenDoorTime": 0,
                 "openDoorTime": 0,
+                "roomNumber": 0,
+                "floorNumber": 0,
                 "localUIRight": false,
                 "gender": "male",
                 "numOfCard": 0,
-                "numOfFP": 1,
-                "numOfFace": 0,
-                "PersonInfoExtends": [
-                    {
-                        "value": ""
-                    }
-                ]
-            },
-            {
-                "employeeNo": "24802312",
-                "name": "Esteban Manuel Sanchez",
-                "userType": "normal",
-                "closeDelayEnabled": false,
-                "Valid": {
-                    "enable": true,
-                    "beginTime": "2023-04-14T00:00:00",
-                    "endTime": "2033-04-13T23:59:59",
-                    "timeType": "local"
-                },
-                "belongGroup": "",
-                "password": "",
-                "doorRight": "1",
-                "RightPlan": [
-                    {
-                        "doorNo": 1,
-                        "planTemplateNo": "1"
-                    }
-                ],
-                "maxOpenDoorTime": 0,
-                "openDoorTime": 0,
-                "localUIRight": false,
-                "gender": "male",
-                "numOfCard": 0,
-                "numOfFP": 1,
-                "numOfFace": 0,
-                "PersonInfoExtends": [
-                    {
-                        "value": ""
-                    }
-                ]
-            },
-            {
-                "employeeNo": "25542838",
-                "name": "Federico Jos\u00e9 Soria",
-                "userType": "normal",
-                "closeDelayEnabled": false,
-                "Valid": {
-                    "enable": true,
-                    "beginTime": "2023-04-14T00:00:00",
-                    "endTime": "2033-04-13T23:59:59",
-                    "timeType": "local"
-                },
-                "belongGroup": "",
-                "password": "",
-                "doorRight": "1",
-                "RightPlan": [
-                    {
-                        "doorNo": 1,
-                        "planTemplateNo": "1"
-                    }
-                ],
-                "maxOpenDoorTime": 0,
-                "openDoorTime": 0,
-                "localUIRight": false,
-                "gender": "male",
-                "numOfCard": 0,
-                "numOfFP": 1,
-                "numOfFace": 0,
-                "PersonInfoExtends": [
-                    {
-                        "value": ""
-                    }
-                ]
-            },
-            {
-                "employeeNo": "28681132",
-                "name": "Diego Esteban Nu\u00f1ez",
-                "userType": "normal",
-                "closeDelayEnabled": false,
-                "Valid": {
-                    "enable": true,
-                    "beginTime": "2023-04-14T00:00:00",
-                    "endTime": "2033-04-13T23:59:59",
-                    "timeType": "local"
-                },
-                "belongGroup": "",
-                "password": "",
-                "doorRight": "1",
-                "RightPlan": [
-                    {
-                        "doorNo": 1,
-                        "planTemplateNo": "1"
-                    }
-                ],
-                "maxOpenDoorTime": 0,
-                "openDoorTime": 0,
-                "localUIRight": false,
-                "gender": "male",
-                "numOfCard": 0,
-                "numOfFP": 1,
-                "numOfFace": 0,
-                "PersonInfoExtends": [
-                    {
-                        "value": ""
-                    }
-                ]
-            },
-            {
-                "employeeNo": "16130758",
-                "name": "Jorge Buzzo",
-                "userType": "normal",
-                "closeDelayEnabled": false,
-                "Valid": {
-                    "enable": true,
-                    "beginTime": "2023-04-14T00:00:00",
-                    "endTime": "2033-04-13T23:59:59",
-                    "timeType": "local"
-                },
-                "belongGroup": "",
-                "password": "",
-                "doorRight": "1",
-                "RightPlan": [
-                    {
-                        "doorNo": 1,
-                        "planTemplateNo": "1"
-                    }
-                ],
-                "maxOpenDoorTime": 0,
-                "openDoorTime": 0,
-                "localUIRight": false,
-                "gender": "male",
-                "numOfCard": 0,
-                "numOfFP": 1,
-                "numOfFace": 0,
-                "PersonInfoExtends": [
-                    {
-                        "value": ""
-                    }
-                ]
-            },
-            {
-                "employeeNo": "95853951",
-                "name": "Dixon Alfredo Montilla",
-                "userType": "normal",
-                "closeDelayEnabled": false,
-                "Valid": {
-                    "enable": true,
-                    "beginTime": "2023-04-14T00:00:00",
-                    "endTime": "2033-04-13T23:59:59",
-                    "timeType": "local"
-                },
-                "belongGroup": "",
-                "password": "",
-                "doorRight": "1",
-                "RightPlan": [
-                    {
-                        "doorNo": 1,
-                        "planTemplateNo": "1"
-                    }
-                ],
-                "maxOpenDoorTime": 0,
-                "openDoorTime": 0,
-                "localUIRight": false,
-                "gender": "male",
-                "numOfCard": 0,
-                "numOfFP": 1,
-                "numOfFace": 0,
-                "PersonInfoExtends": [
-                    {
-                        "value": ""
-                    }
-                ]
-            },
-            {
-                "employeeNo": "25444119",
-                "name": "Pedro Emanuel Ballesteros",
-                "userType": "normal",
-                "closeDelayEnabled": false,
-                "Valid": {
-                    "enable": true,
-                    "beginTime": "2023-04-14T00:00:00",
-                    "endTime": "2033-04-13T23:59:59",
-                    "timeType": "local"
-                },
-                "belongGroup": "",
-                "password": "",
-                "doorRight": "1",
-                "RightPlan": [
-                    {
-                        "doorNo": 1,
-                        "planTemplateNo": "1"
-                    }
-                ],
-                "maxOpenDoorTime": 0,
-                "openDoorTime": 0,
-                "localUIRight": false,
-                "gender": "male",
-                "numOfCard": 0,
-                "numOfFP": 1,
                 "numOfFace": 1,
                 "PersonInfoExtends": [
                     {
                         "value": ""
                     }
-                ],
-                "faceURL": "http://192.168.68.200/LOCALS/pic/enrlFace/0/0000000004.jpg@WEB000000002423"
-            },
-            {
-                "employeeNo": "23889440",
-                "name": "Alvarez Adriana del Valle",
-                "userType": "normal",
-                "closeDelayEnabled": false,
-                "Valid": {
-                    "enable": true,
-                    "beginTime": "2023-04-14T00:00:00",
-                    "endTime": "2033-04-13T23:59:59",
-                    "timeType": "local"
-                },
-                "belongGroup": "",
-                "password": "",
-                "doorRight": "1",
-                "RightPlan": [
-                    {
-                        "doorNo": 1,
-                        "planTemplateNo": "1"
-                    }
-                ],
-                "maxOpenDoorTime": 0,
-                "openDoorTime": 0,
-                "localUIRight": false,
-                "gender": "male",
-                "numOfCard": 0,
-                "numOfFP": 1,
-                "numOfFace": 0,
-                "PersonInfoExtends": [
-                    {
-                        "value": ""
-                    }
                 ]
             },
             {
-                "employeeNo": "34133680",
-                "name": "Fazio Cesar Mariano",
+                "employeeNo": "16122931",
+                "name": "AGUILAR RAUL RICARDO",
                 "userType": "normal",
                 "closeDelayEnabled": false,
                 "Valid": {
                     "enable": true,
-                    "beginTime": "2023-04-14T00:00:00",
-                    "endTime": "2033-04-13T23:59:59",
+                    "beginTime": "2023-09-05T15:24:24",
+                    "endTime": "2033-09-05T15:24:24",
                     "timeType": "local"
                 },
                 "belongGroup": "",
@@ -732,60 +639,27 @@
                 ],
                 "maxOpenDoorTime": 0,
                 "openDoorTime": 0,
+                "roomNumber": 0,
+                "floorNumber": 0,
                 "localUIRight": false,
                 "gender": "male",
                 "numOfCard": 0,
-                "numOfFP": 1,
-                "numOfFace": 0,
-                "PersonInfoExtends": [
-                    {
-                        "value": ""
-                    }
-                ]
-            },
-            {
-                "employeeNo": "26883371",
-                "name": "Juan Jos\u00e9 Maccio",
-                "userType": "normal",
-                "closeDelayEnabled": false,
-                "Valid": {
-                    "enable": true,
-                    "beginTime": "2023-04-14T00:00:00",
-                    "endTime": "2033-04-13T23:59:59",
-                    "timeType": "local"
-                },
-                "belongGroup": "",
-                "password": "",
-                "doorRight": "1",
-                "RightPlan": [
-                    {
-                        "doorNo": 1,
-                        "planTemplateNo": "1"
-                    }
-                ],
-                "maxOpenDoorTime": 0,
-                "openDoorTime": 0,
-                "localUIRight": false,
-                "gender": "male",
-                "numOfCard": 0,
-                "numOfFP": 1,
                 "numOfFace": 1,
                 "PersonInfoExtends": [
                     {
                         "value": ""
                     }
-                ],
-                "faceURL": "http://192.168.68.200/LOCALS/pic/enrlFace/0/0000000015.jpg@WEB000000002424"
+                ]
             },
             {
-                "employeeNo": "35809475",
-                "name": "Lourde Flaviana Sandoval",
+                "employeeNo": "24842124",
+                "name": "AGUILERA CECILIO DIONISIO",
                 "userType": "normal",
                 "closeDelayEnabled": false,
                 "Valid": {
                     "enable": true,
-                    "beginTime": "2023-04-14T00:00:00",
-                    "endTime": "2033-04-13T23:59:59",
+                    "beginTime": "2023-09-05T15:24:24",
+                    "endTime": "2033-09-05T15:24:24",
                     "timeType": "local"
                 },
                 "belongGroup": "",
@@ -799,10 +673,11 @@
                 ],
                 "maxOpenDoorTime": 0,
                 "openDoorTime": 0,
+                "roomNumber": 0,
+                "floorNumber": 0,
                 "localUIRight": false,
                 "gender": "male",
                 "numOfCard": 0,
-                "numOfFP": 1,
                 "numOfFace": 0,
                 "PersonInfoExtends": [
                     {
@@ -811,14 +686,14 @@
                 ]
             },
             {
-                "employeeNo": "34910812",
-                "name": "Enzo Rodrigo Nieto Alcaraz",
+                "employeeNo": "14241991",
+                "name": "AGUIRRE ANTONIO ARMANDO",
                 "userType": "normal",
                 "closeDelayEnabled": false,
                 "Valid": {
                     "enable": true,
-                    "beginTime": "2023-04-14T00:00:00",
-                    "endTime": "2033-04-13T23:59:59",
+                    "beginTime": "2023-09-05T15:24:24",
+                    "endTime": "2033-09-05T15:24:24",
                     "timeType": "local"
                 },
                 "belongGroup": "",
@@ -832,60 +707,27 @@
                 ],
                 "maxOpenDoorTime": 0,
                 "openDoorTime": 0,
+                "roomNumber": 0,
+                "floorNumber": 0,
                 "localUIRight": false,
                 "gender": "male",
                 "numOfCard": 0,
-                "numOfFP": 1,
-                "numOfFace": 0,
-                "PersonInfoExtends": [
-                    {
-                        "value": ""
-                    }
-                ]
-            },
-            {
-                "employeeNo": "33615907",
-                "name": "Daniel Alejandro Medina",
-                "userType": "normal",
-                "closeDelayEnabled": false,
-                "Valid": {
-                    "enable": true,
-                    "beginTime": "2023-04-14T00:00:00",
-                    "endTime": "2033-04-13T23:59:59",
-                    "timeType": "local"
-                },
-                "belongGroup": "",
-                "password": "",
-                "doorRight": "1",
-                "RightPlan": [
-                    {
-                        "doorNo": 1,
-                        "planTemplateNo": "1"
-                    }
-                ],
-                "maxOpenDoorTime": 0,
-                "openDoorTime": 0,
-                "localUIRight": false,
-                "gender": "male",
-                "numOfCard": 0,
-                "numOfFP": 1,
                 "numOfFace": 1,
                 "PersonInfoExtends": [
                     {
                         "value": ""
                     }
-                ],
-                "faceURL": "http://192.168.68.200/LOCALS/pic/enrlFace/0/0000000005.jpg@WEB000000002425"
+                ]
             },
             {
-                "employeeNo": "26454254",
-                "name": "Miguel Fernando Rios",
+                "employeeNo": "41982114",
+                "name": "AGUIRRE CRISTIAN REYES  AGUSTIN",
                 "userType": "normal",
                 "closeDelayEnabled": false,
                 "Valid": {
                     "enable": true,
-                    "beginTime": "2023-04-14T00:00:00",
-                    "endTime": "2033-04-13T23:59:59",
+                    "beginTime": "2023-09-05T15:24:24",
+                    "endTime": "2033-09-05T15:24:24",
                     "timeType": "local"
                 },
                 "belongGroup": "",
@@ -899,10 +741,11 @@
                 ],
                 "maxOpenDoorTime": 0,
                 "openDoorTime": 0,
+                "roomNumber": 0,
+                "floorNumber": 0,
                 "localUIRight": false,
                 "gender": "male",
                 "numOfCard": 0,
-                "numOfFP": 1,
                 "numOfFace": 0,
                 "PersonInfoExtends": [
                     {
@@ -911,14 +754,14 @@
                 ]
             },
             {
-                "employeeNo": "36865485",
-                "name": "Agustin Navarro",
+                "employeeNo": "37092258",
+                "name": "AGUIRRE GERMAN",
                 "userType": "normal",
                 "closeDelayEnabled": false,
                 "Valid": {
                     "enable": true,
-                    "beginTime": "2023-04-14T00:00:00",
-                    "endTime": "2033-04-13T23:59:59",
+                    "beginTime": "2023-09-05T15:24:24",
+                    "endTime": "2033-09-05T15:24:24",
                     "timeType": "local"
                 },
                 "belongGroup": "",
@@ -932,10 +775,11 @@
                 ],
                 "maxOpenDoorTime": 0,
                 "openDoorTime": 0,
+                "roomNumber": 0,
+                "floorNumber": 0,
                 "localUIRight": false,
                 "gender": "male",
                 "numOfCard": 0,
-                "numOfFP": 1,
                 "numOfFace": 0,
                 "PersonInfoExtends": [
                     {
@@ -944,14 +788,14 @@
                 ]
             },
             {
-                "employeeNo": "30767307",
-                "name": "Manuel Ignacio Cobos",
+                "employeeNo": "24900828",
+                "name": "AGUIRRE HECTOR ADRIAN",
                 "userType": "normal",
                 "closeDelayEnabled": false,
                 "Valid": {
                     "enable": true,
-                    "beginTime": "2023-04-14T00:00:00",
-                    "endTime": "2033-04-13T23:59:59",
+                    "beginTime": "2023-09-05T15:24:24",
+                    "endTime": "2033-09-05T15:24:24",
                     "timeType": "local"
                 },
                 "belongGroup": "",
@@ -965,10 +809,113 @@
                 ],
                 "maxOpenDoorTime": 0,
                 "openDoorTime": 0,
+                "roomNumber": 0,
+                "floorNumber": 0,
                 "localUIRight": false,
                 "gender": "male",
                 "numOfCard": 0,
-                "numOfFP": 1,
+                "numOfFace": 1,
+                "PersonInfoExtends": [
+                    {
+                        "value": ""
+                    }
+                ]
+            },
+            {
+                "employeeNo": "30109772",
+                "name": "AGUIRRE HOYOS NORMAN ALEJANDRO",
+                "userType": "normal",
+                "closeDelayEnabled": false,
+                "Valid": {
+                    "enable": true,
+                    "beginTime": "2023-09-05T15:24:24",
+                    "endTime": "2033-09-05T15:24:24",
+                    "timeType": "local"
+                },
+                "belongGroup": "",
+                "password": "",
+                "doorRight": "1",
+                "RightPlan": [
+                    {
+                        "doorNo": 1,
+                        "planTemplateNo": "1"
+                    }
+                ],
+                "maxOpenDoorTime": 0,
+                "openDoorTime": 0,
+                "roomNumber": 0,
+                "floorNumber": 0,
+                "localUIRight": false,
+                "gender": "male",
+                "numOfCard": 0,
+                "numOfFace": 1,
+                "PersonInfoExtends": [
+                    {
+                        "value": ""
+                    }
+                ]
+            },
+            {
+                "employeeNo": "40236608",
+                "name": "AGUIRRE TOBIAS JESUS NAHUEL",
+                "userType": "normal",
+                "closeDelayEnabled": false,
+                "Valid": {
+                    "enable": true,
+                    "beginTime": "2023-09-05T15:24:24",
+                    "endTime": "2033-09-05T15:24:24",
+                    "timeType": "local"
+                },
+                "belongGroup": "",
+                "password": "",
+                "doorRight": "1",
+                "RightPlan": [
+                    {
+                        "doorNo": 1,
+                        "planTemplateNo": "1"
+                    }
+                ],
+                "maxOpenDoorTime": 0,
+                "openDoorTime": 0,
+                "roomNumber": 0,
+                "floorNumber": 0,
+                "localUIRight": false,
+                "gender": "male",
+                "numOfCard": 0,
+                "numOfFace": 1,
+                "PersonInfoExtends": [
+                    {
+                        "value": ""
+                    }
+                ]
+            },
+            {
+                "employeeNo": "41375060",
+                "name": "ALBORNOZ ANA GUADALUPE",
+                "userType": "normal",
+                "closeDelayEnabled": false,
+                "Valid": {
+                    "enable": true,
+                    "beginTime": "2023-09-05T15:24:24",
+                    "endTime": "2033-09-05T15:24:24",
+                    "timeType": "local"
+                },
+                "belongGroup": "",
+                "password": "",
+                "doorRight": "1",
+                "RightPlan": [
+                    {
+                        "doorNo": 1,
+                        "planTemplateNo": "1"
+                    }
+                ],
+                "maxOpenDoorTime": 0,
+                "openDoorTime": 0,
+                "roomNumber": 0,
+                "floorNumber": 0,
+                "localUIRight": false,
+                "gender": "male",
+                "numOfCard": 0,
                 "numOfFace": 0,
                 "PersonInfoExtends": [
                     {
@@ -977,14 +924,14 @@
                 ]
             },
             {
-                "employeeNo": "34138958",
-                "name": "Federico Nelegatti",
+                "employeeNo": "26445470",
+                "name": "ALBORNOZ ELIO GERARDO",
                 "userType": "normal",
                 "closeDelayEnabled": false,
                 "Valid": {
                     "enable": true,
-                    "beginTime": "2023-04-14T00:00:00",
-                    "endTime": "2033-04-13T23:59:59",
+                    "beginTime": "2023-09-05T15:24:24",
+                    "endTime": "2033-09-05T15:24:24",
                     "timeType": "local"
                 },
                 "belongGroup": "",
@@ -998,11 +945,80 @@
                 ],
                 "maxOpenDoorTime": 0,
                 "openDoorTime": 0,
+                "roomNumber": 0,
+                "floorNumber": 0,
                 "localUIRight": false,
                 "gender": "male",
                 "numOfCard": 0,
-                "numOfFP": 1,
                 "numOfFace": 0,
+                "PersonInfoExtends": [
+                    {
+                        "value": ""
+                    }
+                ]
+            },
+            {
+                "employeeNo": "35809425",
+                "name": "ALBORNOZ FRANCO EDGARDO",
+                "userType": "normal",
+                "closeDelayEnabled": false,
+                "Valid": {
+                    "enable": true,
+                    "beginTime": "2023-09-05T15:24:24",
+                    "endTime": "2033-09-05T15:24:24",
+                    "timeType": "local"
+                },
+                "belongGroup": "",
+                "password": "",
+                "doorRight": "1",
+                "RightPlan": [
+                    {
+                        "doorNo": 1,
+                        "planTemplateNo": "1"
+                    }
+                ],
+                "maxOpenDoorTime": 0,
+                "openDoorTime": 0,
+                "roomNumber": 0,
+                "floorNumber": 0,
+                "localUIRight": false,
+                "gender": "male",
+                "numOfCard": 0,
+                "numOfFace": 1,
+                "PersonInfoExtends": [
+                    {
+                        "value": ""
+                    }
+                ]
+            },
+            {
+                "employeeNo": "27976540",
+                "name": "ALBORNOZ GONZALO GUSTAVO",
+                "userType": "normal",
+                "closeDelayEnabled": false,
+                "Valid": {
+                    "enable": true,
+                    "beginTime": "2023-09-05T15:24:24",
+                    "endTime": "2033-09-05T15:24:24",
+                    "timeType": "local"
+                },
+                "belongGroup": "",
+                "password": "",
+                "doorRight": "1",
+                "RightPlan": [
+                    {
+                        "doorNo": 1,
+                        "planTemplateNo": "1"
+                    }
+                ],
+                "maxOpenDoorTime": 0,
+                "openDoorTime": 0,
+                "roomNumber": 0,
+                "floorNumber": 0,
+                "localUIRight": false,
+                "gender": "male",
+                "numOfCard": 0,
+                "numOfFace": 1,
                 "PersonInfoExtends": [
                     {
                         "value": ""
