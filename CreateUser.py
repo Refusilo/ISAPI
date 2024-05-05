@@ -5,7 +5,7 @@ def CreateUser(url, auth, json_data):
 
     response = requests.post(path, auth=auth, json=json_data)
 
-    with open(r'cu_entrada.txt', 'w') as archivo:
+    with open(r'c:\tmp\salida.txt', 'w') as archivo:
         if response.status_code == 200:
             archivo.write('OK')
         else:

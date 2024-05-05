@@ -10,6 +10,7 @@ from CreateUser import CreateUser
 from DeleteUser import DeleteUser
 from ListUser import ListUser
 from ReadEvents import ReadEvents
+from GetPicture import GetPicture
 
 def readJson(json_file):
         with open(json_file, 'r') as archivo:
@@ -64,6 +65,10 @@ class hikvision():
     def DeleteUser(self):
         #auth = self.generar_auth()
         DeleteUser(self.__url, self.__user, self.__password, self.__json_data)
+        
+    def GetPicture(self):
+        #auth = self.generar_auth()
+        GetPicture(self.__url, self.__user, self.__password, self.__json_data)
 
 if __name__ == '__main__':
     order, host, user, passwd, json_file, file = main()

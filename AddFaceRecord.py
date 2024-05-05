@@ -1,13 +1,9 @@
 import requests
 import json
 import os
-from ImgChgSize import reducir_a_200kb
 
 def addFaceRecord(host, auth, img, json_data):
     url = f'{host}/ISAPI/Intelligent/FDLib/FaceDataRecord?format=json'
-    
-    reducir_a_200kb(img)
-    
     with open(img, 'rb') as image_file:
         image_data = image_file.read()
 

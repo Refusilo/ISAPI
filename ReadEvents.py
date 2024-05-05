@@ -1,6 +1,5 @@
 import requests
 from datetime import datetime
-from datetime import datetime
 import pytz
 from requests.auth import HTTPDigestAuth
 
