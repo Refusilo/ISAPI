@@ -46,5 +46,3 @@ def SearchPicture(url, user, passwd, json_data):
                 break
     archivos.close()
     print(f'Cantidad de Registros Visualizado: {total_registros}')
-
-SearchPicture('http://192.168.68.29', 'admin', 'Admin2023$','')

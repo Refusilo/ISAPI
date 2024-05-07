@@ -44,10 +44,9 @@ def ReadEvents(url, user, passwd, json_data):
                     try:
                         for info in json_data["AcsEvent"]["InfoList"]:
                             fecha, hora = info['time'].split('T')
-                            hora_minutos = hora.split(':')[0:2]
-                            hora_minutos_str = ":".join(hora_minutos)
-                            linea_proc = f"Fecha={fecha}\tHora={hora_minutos_str}\tNombre={info['name']}\tId={info['employeeNoString']}\tTipo={info['currentVerifyMode']}"
-                            #print ( linea_proc )
+                            hora_minutos = hora[:-6]
+                            linea_proc = f"Fecha={fecha}\tHora={hora_minutos}\tNombre={info['name']}\tId={info['employeeNoString']}\tTipo={info['currentVerifyMode']}"
+                            print ( linea_proc )
                             archivos.write (linea_proc + '\n')
                         pos = pos + 30
                     except Exception as e:
