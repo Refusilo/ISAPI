@@ -2,8 +2,11 @@
 import requests
 import json
 from types import SimpleNamespace
+from readData_Ora import readData
 
 def ListUser(url, auth, json_data):
+    #ora = readData('192.168.0.218', 'balcanes','brobol1957','1521','orcl',r'\\192.168.0.218\d\sistemas\excel\ora')
+    ora = readData('localhost', 'balcanes','pen','1521','orcl',r'F:\Python\ISAPI_ReadEvents\ora')
     path = f'{url}/ISAPI/AccessControl/UserInfo/Search?format=json'
     archivo_salida = open (r'c:\tmp\salida.txt', 'w', encoding='utf-8')
     response = requests.post(path, auth=auth, json=json_data)    
