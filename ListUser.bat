@@ -1,1 +1,4 @@
+C:\Users\Usuario\AppData\Local\Programs\Python\Python310-32\python.exe .\hikvision_cmd.py --order listuser --host http://192.168.68.28 --user admin --passwd Admin2023$ --json_file li_entrada.json --file .
 C:\Users\Usuario\AppData\Local\Programs\Python\Python310-32\python.exe .\hikvision_cmd.py --order listuser --host http://192.168.68.29 --user admin --passwd Admin2023$ --json_file li_entrada.json --file .
+C:\Users\Usuario\AppData\Local\Programs\Python\Python310-32\python.exe .\hikvision_cmd.py --order listuser --host http://192.168.68.42 --user admin --passwd Admin2023$ --json_file li_entrada.json --file .
+C:\Users\Usuario\AppData\Local\Programs\Python\Python310-32\python.exe .\hikvision_cmd.py --order listuser --host http://192.168.68.43 --user admin --passwd Admin2023$ --json_file li_entrada.json --file .

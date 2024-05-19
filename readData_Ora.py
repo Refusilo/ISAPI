@@ -1,6 +1,7 @@
 import cx_Oracle
 from datetime import datetime
 
+
 class readData():
     def __init__(self, ip, user, passwd, port, sid, libdir):
         self.__username = user
@@ -17,26 +18,26 @@ class readData():
             self.__ip, self.__port, service_name=self.__sid)
         # Conecta a la base de datos
         self.__conexion = cx_Oracle.connect(
-            self.__username, self.__password, self.__dsn_tns, encoding="us-ascii", nencoding="utf8")
+            self.__username, self.__password, self.__dsn_tns, encoding="utf8", nencoding="utf8")
 
     def conn_commit(self):
         self.__conexion.commit()
-        
-    def conn_close (self):
+
+    def conn_close(self):
         self.__conexion.close()
-        
+
     def readClock(self, usuario):
         __cursor = self.__conexion.cursor()
-        __sql = "SELECT * FROM SUE_USUARIO_RELOJ WHERE USERNAME = '" + usuario + "'"
+        __sql = "SELECT * FROM SUE_USUARIO_RELOJ"
         __cursor.execute(__sql)
         resultados = __cursor.fetchall()
         __cursor.close()
         return resultados
 
-    def insertUser(self, pin, reloj, descrip, tipo,  pic):
+    def insertUser(self, pin, reloj, descrip, tipo):
         __cursor = self.__conexion.cursor()
         try:
             __cursor.callproc('PROC_CARGAR_USER', [
-                          pin, pin, reloj, descrip, tipo,  pic])
+                pin, reloj, descrip, tipo])
         finally:
             __cursor.close()
