@@ -15,9 +15,11 @@ def addFaceRecord(host, auth, img, json_data):
 
     response = requests.post(url, auth=auth, files=files)
 
-    with open(r'c:\tmp\salida.txt') as archivos:
+    with open(r'c:\tmp\salida.txt','w') as archivos:
         if response.status_code == 200:
             archivos.write('OK')
         else:
+            json_data = response.json()
+            print ((json_data))
             archivos.write(
-                f'{response.status_code} {response.subStatusCode} - Error al Procesar')
+                f'{json_data["statusCode"]} {json_data["statusString"]} - Error al Procesar')
