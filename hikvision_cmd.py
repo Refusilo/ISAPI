@@ -11,6 +11,7 @@ from DeleteUser import DeleteUser
 from ListUser import ListUser
 from ReadEvents import ReadEvents
 from GetPicture import GetPicture
+from SearchPicture import SearchPicture
 
 
 def readJson(json_file):
@@ -47,7 +48,7 @@ class hikvision():
 
     def listUser(self):
         auth = self.generar_auth()
-        ListUser(self.__url, auth, self.__json_data)
+        ListUser(self.__url, auth, self.__json_data, self.__ifile)
 
     def CreateUser(self):
         auth = self.generar_auth()
@@ -75,6 +76,8 @@ class hikvision():
         # auth = self.generar_auth()
         GetPicture(self.__url, self.__user, self.__password, self.__ifile)
 
+    def SearchPicture(self):
+        SearchPicture(self.__url, self.__user, self.__password, self.__ifile)
 
 if __name__ == '__main__':
     order, host, user, passwd, json_file, file = main()
@@ -94,3 +97,5 @@ if __name__ == '__main__':
         hv.DeleteUser()
     if order == 'getpicture':
         hv.GetPicture()
+    if order == 'searchpicture':
+        hv.SearchPicture()
