@@ -99,3 +99,5 @@ if __name__ == '__main__':
         hv.GetPicture()
     if order == 'searchpicture':
         hv.SearchPicture()
+    if order == 'deletefacerecord':
+        hv.DeleteFaceRecord()
