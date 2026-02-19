@@ -3,11 +3,11 @@ import requests
 from requests.auth import HTTPDigestAuth
 
 # Definir la URL del endpoint
-url = 'http://192.168.68.200/ISAPI/AccessControl/UserInfo/Search?format=json'
+url = 'http://192.168.68.201/ISAPI/AccessControl/UserInfo/Search?format=json'
 
 # Definir las credenciales de autenticación
 usuario = 'admin'
-clave = 'ano2023-26455604'
+clave = 'Admin2023$'
 
 # Definir el cuerpo de mensaje JSON a enviar
 cuerpo_mensaje = {
@@ -27,11 +27,10 @@ if response.status_code == 200:
     # Obtener los datos JSON de la respuesta
     json_data = response.json()
     # Procesar los datos JSON según sea necesario
-    print(json_data)
+    #print(json_data)
     
-    # for info in json_data["UserInfoSearch"]["UserInfo"]:
-        
-    #     print(f"{info['employeeNo']}\t{info['name']}\t{info['userType']}\t{info['Valid']['beginTime']}\t{info['Valid']['endTime']}")
+    for info in json_data["UserInfoSearch"]["UserInfo"]:   
+        print(f"{info['employeeNo']}\t{info['name']}\t{info['userType']}\t{info['Valid']['beginTime']}\t{info['Valid']['endTime']}")
     # print("cantidad de empleados:",len(json_data["UserInfoSearch"]["UserInfo"]))
 else:
     # Si la solicitud no fue exitosa, imprimir el código de estado

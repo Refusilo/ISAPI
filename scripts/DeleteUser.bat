@@ -1,0 +1,1 @@
+py ..\hikvision_cmd.py --order deleteuser --host http://192.168.68.200 --user admin --passwd ano2023-26455604 --json_file du_entrada.json

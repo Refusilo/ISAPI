@@ -1,11 +1,16 @@
 import requests
 
+from .project_paths import OUTPUT_DIR
+
 def CreateUser(url, auth, json_data):
     path = f'{url}/ISAPI/AccessControl/UserInfo/Record?format=json'
 
     response = requests.post(path, auth=auth, json=json_data)
 
-    with open(r'c:\tmp\salida.txt', 'w') as archivo:
+    output_file = OUTPUT_DIR / 'create_user.txt'
+    output_file.parent.mkdir(parents=True, exist_ok=True)
+
+    with output_file.open('w', encoding='utf-8') as archivo:
         if response.status_code == 200:
             archivo.write('OK')
         else:

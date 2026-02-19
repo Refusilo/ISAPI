@@ -1,8 +1,7 @@
 import requests
-import json
-from datetime import datetime
-import pytz
 from requests.auth import HTTPDigestAuth
+
+from .project_paths import OUTPUT_DIR
 
 def SearchPicture(url, user, passwd, json_data):
     def json_entrada_leer(pos=0):
@@ -15,8 +14,11 @@ def SearchPicture(url, user, passwd, json_data):
         return json_data    
     path = f'{url}/ISAPI/Intelligent/FDLib/FDSearch?format=json'
     pos = 0
-    total_registros = None    
-    with open(r'salida.txt', 'w', encoding='utf-8') as archivos:    
+    total_registros = None
+    output_file = OUTPUT_DIR / 'search_picture.txt'
+    output_file.parent.mkdir(parents=True, exist_ok=True)
+
+    with output_file.open('w', encoding='utf-8') as archivos:    
         while True:
             json_entrada = json_entrada_leer(pos)            
             response = requests.post(path, auth=HTTPDigestAuth(user, passwd), json=json_entrada)
@@ -44,5 +46,4 @@ def SearchPicture(url, user, passwd, json_data):
                 print(f'Error: {response.status_code}')
                 print ( response.json() )
                 break
-    archivos.close()
     print(f'Cantidad de Registros Visualizado: {total_registros}')

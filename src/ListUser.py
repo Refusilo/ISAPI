@@ -1,18 +1,23 @@
+import json
 
 import requests
-import json
-from types import SimpleNamespace
+
+from .project_paths import OUTPUT_DIR
 
 def ListUser(url, auth, json_data):
     path = f'{url}/ISAPI/AccessControl/UserInfo/Search?format=json'
-    archivo_salida = open (r'c:\tmp\salida.txt', 'w', encoding='utf-8')
+    log_file = OUTPUT_DIR / 'list_user.txt'
+    json_output = OUTPUT_DIR / 'sa_li_entrada.json'
+    log_file.parent.mkdir(parents=True, exist_ok=True)
+
+    archivo_salida = log_file.open('w', encoding='utf-8')
     response = requests.post(path, auth=auth, json=json_data)    
     if response.status_code == 200:
         json_response = response.json()
         total_informado = json_response["UserInfoSearch"]["totalMatches"]
         print (f'Total de Registro Informado {total_informado}')        
-        with open('sa_li_entrada.json', 'w') as archivo:
-            archivo.write(str(json.dumps(json_response, indent=4)))
+        with json_output.open('w', encoding='utf-8') as archivo:
+            archivo.write(json.dumps(json_response, indent=4))
         pos = 0
         while True:
             for info in json_response["UserInfoSearch"]["UserInfo"]:

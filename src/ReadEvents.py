@@ -1,7 +1,10 @@
-import requests
 from datetime import datetime
+
 import pytz
+import requests
 from requests.auth import HTTPDigestAuth
+
+from .project_paths import OUTPUT_DIR
 
 def ReadEvents(url, user, passwd, json_data):
     def convert_to_utc(time_str):
@@ -30,8 +33,11 @@ def ReadEvents(url, user, passwd, json_data):
     pos = 0
     total_registros = None    
     fdesde = json_data["AcsEventCond"]["startTime"]
-    fhasta = json_data["AcsEventCond"]["endTime"]    
-    with open(r'c:\tmp\salida.txt', 'w', encoding='utf-8') as archivos:    
+    fhasta = json_data["AcsEventCond"]["endTime"]
+    output_file = OUTPUT_DIR / 'events.txt'
+    output_file.parent.mkdir(parents=True, exist_ok=True)
+
+    with output_file.open('w', encoding='utf-8') as archivos:    
         while True:
             json_entrada = json_entrada_leer(fdesde, fhasta, pos)
             response = requests.post(path, auth=HTTPDigestAuth(user, passwd), json=json_entrada)
@@ -61,5 +67,4 @@ def ReadEvents(url, user, passwd, json_data):
                 print(f'Error: {response.status_code}')
                 print ( response.json() )
                 break
-    archivos.close()
     print(f'Cantidad de Registros Visualizado: {total_registros}')
